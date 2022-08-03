@@ -1,0 +1,13 @@
+User-agent: *
+
+# Indexing of sensitive files is prevented
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wpcontent/cache
+Disallow: /trackback
+Disallow: /*.php$
+Disallow: /*.inc$
+Disallow: /*.gz$
+
+# We de-index the login page (unnecessary content)
+Disallow: /wp-login.php
