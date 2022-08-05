@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Fri, 05 Aug 2022 10:36:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Aug 2022 14:50:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,6 +35,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 05 Aug 2022 10:16:50 +0000</pubDate>
 				<category><![CDATA[Terrorisme]]></category>
+		<category><![CDATA[Les actualités du Mali]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=927</guid>
 
 					<description><![CDATA[Source: Forces Armees Maliennes]]></description>
@@ -54,6 +55,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Wed, 03 Aug 2022 09:15:34 +0000</pubDate>
 				<category><![CDATA[Terrorisme]]></category>
+		<category><![CDATA[Les actualités du Mali]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=845</guid>
 
 					<description><![CDATA[Localisation et destruction des refuges logistiques et des rescapés dans les forêts de Diabali Koura,...]]></description>
@@ -73,6 +75,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 18:53:59 +0000</pubDate>
 				<category><![CDATA[Terrorisme]]></category>
+		<category><![CDATA[Les actualités du Mali]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=20</guid>
 
 					<description><![CDATA[Bamako est en état d’alerte depuis plusieurs jours pour faire face à d’éventuelles attaques terroristes....]]></description>

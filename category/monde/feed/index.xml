@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Fri, 05 Aug 2022 09:54:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Aug 2022 14:51:11 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,6 +36,7 @@
 		<pubDate>Fri, 05 Aug 2022 09:54:05 +0000</pubDate>
 				<category><![CDATA[Monde]]></category>
 		<category><![CDATA[Politique]]></category>
+		<category><![CDATA[Les actualités de l'Afrique]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=923</guid>
 
 					<description><![CDATA[Après plusieurs jours de manifestations sanglantes contre la Mission des nations unies en République démocratique...]]></description>
@@ -48,7 +49,7 @@
 		
 			</item>
 		<item>
-		<title>Les USA demandent à la RDC de protéger la MONUSCO</title>
+		<title>Les USA demandent de protéger la MONUSCO</title>
 		<link>./../../../2022/07/29/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html</link>
 					<comments>./../../../2022/07/29/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html#respond</comments>
 		
@@ -56,6 +57,7 @@
 		<pubDate>Fri, 29 Jul 2022 19:00:14 +0000</pubDate>
 				<category><![CDATA[Monde]]></category>
 		<category><![CDATA[Politique]]></category>
+		<category><![CDATA[Les actualités de l'Afrique]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=29</guid>
 
 					<description><![CDATA[Après des manifestations meurtrières contre la présence de l&#8217;ONU dans le Nord Kivu, les Etats-Unis...]]></description>
@@ -68,7 +70,7 @@
 		
 			</item>
 		<item>
-		<title>NSE : Le Mali demande une plus grande transparence de la part de la MINUSMA</title>
+		<title>Le Mali: Transparence de la MINUSMA</title>
 		<link>./../../../2022/07/28/le-mali-demande-transparence-de-la-part-de-la-minusma/index.html</link>
 					<comments>./../../../2022/07/28/le-mali-demande-transparence-de-la-part-de-la-minusma/index.html#respond</comments>
 		
@@ -76,6 +78,7 @@
 		<pubDate>Thu, 28 Jul 2022 11:50:24 +0000</pubDate>
 				<category><![CDATA[Monde]]></category>
 		<category><![CDATA[Politique]]></category>
+		<category><![CDATA[Les actualités du Mali]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=33</guid>
 
 					<description><![CDATA[A l’ouverture de la séance de travail ce mardi, 26 juillet 2022 avec Monsieur Jean-Pierre...]]></description>

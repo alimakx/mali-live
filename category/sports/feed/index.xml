@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Thu, 04 Aug 2022 08:48:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Aug 2022 14:52:05 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,14 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Les matches de qualifications de la CAN reporter à mars 2023</title>
+		<title>Les matches de qualifications de la CAN reporter</title>
 		<link>./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html</link>
 					<comments>./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 18:58:52 +0000</pubDate>
 				<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Les actualités du Monde]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=26</guid>
 
 					<description><![CDATA[Les journées de qualifications pour la Coupe d&#8217;Afrique des Nations (CAN) prévues en septembre ont...]]></description>
