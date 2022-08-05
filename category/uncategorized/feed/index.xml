@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Mali Live</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Les actualités du Mali, de l&#039;Afrique et du tiers Monde</description>
+	<lastBuildDate>Fri, 05 Aug 2022 10:16:54 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
+	<title>Uncategorized &#8211; Mali Live</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Les FAMAS neutralisent des terroristes</title>
+		<link>./../../../2022/08/05/les-famas-neutralisent-des-terroristes/index.html</link>
+					<comments>./../../../2022/08/05/les-famas-neutralisent-des-terroristes/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Mali Live]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2022 10:16:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=927</guid>
+
+					<description><![CDATA[Source: Forces Armees Maliennes]]></description>
+										<content:encoded><![CDATA[<p>Source: Forces Armees Maliennes...</p>
+<p><a href="./../../../2022/08/05/les-famas-neutralisent-des-terroristes/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/08/05/les-famas-neutralisent-des-terroristes/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
