@@ -11,8 +11,8 @@
 	<title>Terrorisme &#8211; Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Les actualités du Mali, de l&#039;Afrique et du tiers Monde</description>
-	<lastBuildDate>Thu, 04 Aug 2022 08:50:46 +0000</lastBuildDate>
+	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
+	<lastBuildDate>Fri, 05 Aug 2022 10:36:26 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les FAMAS neutralisent des terroristes</title>
+		<link>./../../../2022/08/05/les-famas-neutralisent-des-terroristes/index.html</link>
+					<comments>./../../../2022/08/05/les-famas-neutralisent-des-terroristes/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Mali Live]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2022 10:16:50 +0000</pubDate>
+				<category><![CDATA[Terrorisme]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=927</guid>
+
+					<description><![CDATA[Source: Forces Armees Maliennes]]></description>
+										<content:encoded><![CDATA[<p>Source: Forces Armees Maliennes...</p>
+<p><a href="./../../../2022/08/05/les-famas-neutralisent-des-terroristes/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/08/05/les-famas-neutralisent-des-terroristes/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Communiqué de l’État-major Général des Armées</title>
 		<link>./../../../2022/08/03/communique-de-letat-major-general-des-armees/index.html</link>
 					<comments>./../../../2022/08/03/communique-de-letat-major-general-des-armees/index.html#respond</comments>
