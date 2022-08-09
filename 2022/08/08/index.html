@@ -47,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:image:height" content="576">
 <meta name="twitter:image:alt" content="Photo de mur">
 <meta name="google-site-verification" content="YO7xecTGI3MaKfnkVvZzBC5FkrjTWtN9aqIcB___59A">
-<!-- / The SEO Framework : par Sybre Waaijer | 12.19ms meta | 12.17ms boot -->
+<!-- / The SEO Framework : par Sybre Waaijer | 16.79ms meta | 13.43ms boot -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
@@ -76,10 +76,10 @@ img.emoji {
 <link rel="stylesheet" id="font-awesome-css" href="./../../../wp-content/themes/newsphere/assets/font-awesome/css/font-awesome.min.css?ver=3.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="bootstrap-css" href="./../../../wp-content/themes/newsphere/assets/bootstrap/css/bootstrap.min.css?ver=3.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="swiper-css" href="./../../../wp-content/themes/newsphere/assets/swiper/css/swiper.min.css?ver=3.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="sidr-css" href="./../../../wp-content/cache/autoptimize/css/autoptimize_single_999cf118f3e279e62023068539711c97.css?ver=3.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css" href="./../../../wp-content/cache/autoptimize/css/autoptimize_single_30b593b71d7672658f89bfea0ab360c9.css?ver=3.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="sidr-css" href="./../../../wp-content/themes/newsphere/assets/sidr/css/sidr.bare.css?ver=3.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="./../../../wp-content/themes/newsphere/assets/magnific-popup/magnific-popup.css?ver=3.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="newsphere-google-fonts-css" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700|Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&#038;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="newsphere-style-css" href="./../../../wp-content/cache/autoptimize/css/autoptimize_single_7d3a4d74be959e845c5d5f72a76e68f8.css?ver=3.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="newsphere-style-css" href="./../../../wp-content/themes/newsphere/style.css?ver=3.0.0" type="text/css" media="all">
 <script type="text/javascript" src="./../../../wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="./../../../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 
@@ -437,10 +437,12 @@ img.emoji {
 <div id="block-16" class="widget newsphere-widget widget_block widget_media_image"><div class="wp-block-image is-style-default">
 <figure class="aligncenter size-full" id="https://www.ikamail.net/"><a href="https://www.ikamail.net/"><img loading="lazy" width="1153" height="938" src="./../../../wp-content/uploads/2022/07/plan.png" alt="HÉBERGEMENT EMAIL + DOMAINE" class="wp-image-575" title="HÉBERGEMENT EMAIL + DOMAINE" srcset="./../../../wp-content/uploads/2022/07/plan.png 1153w, ./../../../wp-content/uploads/2022/07/plan-300x244.png 300w, ./../../../wp-content/uploads/2022/07/plan-1024x833.png 1024w, ./../../../wp-content/uploads/2022/07/plan-768x625.png 768w" sizes="(max-width: 1153px) 100vw, 1153px"></a></figure>
 </div></div>
-<div id="block-44" class="widget newsphere-widget widget_block"><p><a class="weatherwidget-io" href="https://forecast7.com/fr/12d64n8d00/bamako/" data-label_1="BAMAKO" data-label_2="METEO" data-theme="original">BAMAKO METEO</a><br>
-<script><br />
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');<br />
-</script></p></div>
+<div id="block-44" class="widget newsphere-widget widget_block">
+<a class="weatherwidget-io" href="https://forecast7.com/fr/12d64n8d00/bamako/" data-label_1="BAMAKO" data-label_2="METEO" data-theme="original">BAMAKO METEO</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+</div>
 		<div id="recent-posts-1" class="widget newsphere-widget widget_recent_entries">
 		<h2 class="widget-title widget-title-1"><span>Articles récents</span></h2>
 		<ul>
@@ -806,23 +808,23 @@ wp.apiFetch.nonceEndpoint = "./wp-admin/admin-ajax.php?action=rest-nonce";
 var radioPlayer = {"plugin_url":".\/wp-content\/plugins\/radio-player","admin_url":".\/wp-admin\/","ajax_url":".\/wp-admin\/admin-ajax.php","site_url":".","is_popup_player":"","isPreview":"","popup_url":".","nonce":"7db059794c","i18n":[],"isPro":"","settings":{"httpPlayer":"off","volume":80,"customPopupSize":"off","popupWidth":420,"popupHeight":330,"proxyURL":"","displayAll":"on","stickyPlayerPages":"","enableStats":"off","openPlaylist":"on"},"isHTTP":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="./../../../wp-content/cache/autoptimize/js/autoptimize_single_e1063422be8b9cea07db5dea2f38e07b.js?ver=1.1.2" id="radio-player-js"></script>
-<script type="text/javascript" src="./../../../wp-content/cache/autoptimize/js/autoptimize_single_fc2ea1549107922eb917dc1b4bd24e54.js?ver=20151215" id="newsphere-navigation-js"></script>
-<script type="text/javascript" src="./../../../wp-content/cache/autoptimize/js/autoptimize_single_93d421fd7576b0ca9c359ffe2fa16113.js?ver=20151215" id="newsphere-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="./../../../wp-content/plugins/radio-player/assets/js/frontend.js?ver=1.1.2" id="radio-player-js"></script>
+<script type="text/javascript" src="./../../../wp-content/themes/newsphere/js/navigation.js?ver=20151215" id="newsphere-navigation-js"></script>
+<script type="text/javascript" src="./../../../wp-content/themes/newsphere/js/skip-link-focus-fix.js?ver=20151215" id="newsphere-skip-link-focus-fix-js"></script>
 <script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/swiper/js/swiper.min.js?ver=6.0.1" id="swiper-js"></script>
 <script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/bootstrap/js/bootstrap.min.js?ver=6.0.1" id="bootstrap-js"></script>
 <script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/sidr/js/jquery.sidr.min.js?ver=6.0.1" id="sidr-js"></script>
 <script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/magnific-popup/jquery.magnific-popup.min.js?ver=6.0.1" id="magnific-popup-js"></script>
 <script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/jquery-match-height/jquery.matchHeight.min.js?ver=6.0.1" id="matchheight-js"></script>
-<script type="text/javascript" src="./../../../wp-content/cache/autoptimize/js/autoptimize_single_03d509c5deeff71fb4daf817fc41501d.js?ver=6.0.1" id="marquee-js"></script>
+<script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/marquee/jquery.marquee.js?ver=6.0.1" id="marquee-js"></script>
 <script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/theiaStickySidebar/theia-sticky-sidebar.min.js?ver=6.0.1" id="sticky-sidebar-js"></script>
-<script type="text/javascript" src="./../../../wp-content/cache/autoptimize/js/autoptimize_single_729ab4bd45e94e22ab81a698e42fc65c.js?ver=6.0.1" id="newsphere-script-js"></script>
+<script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/script.js?ver=6.0.1" id="newsphere-script-js"></script>
 <script type="text/javascript" id="newsphere-pagination-js-js-extra">
 /* <![CDATA[ */
 var AFurl = {"dir":"left"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="./../../../wp-content/cache/autoptimize/js/autoptimize_single_64984e0819f5d2f33b3641d64ca83628.js?ver=6.0.1" id="newsphere-pagination-js-js"></script>
+<script type="text/javascript" src="./../../../wp-content/themes/newsphere/assets/pagination-script.js?ver=6.0.1" id="newsphere-pagination-js-js"></script>
 
 </div>
 </body>
