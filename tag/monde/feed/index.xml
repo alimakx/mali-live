@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Les actualités du Monde &#8211; Mali Live</title>
+	<title>Monde &#8211; Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Fri, 05 Aug 2022 14:52:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Aug 2022 09:51:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,32 +22,12 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Les actualités du Monde &#8211; Mali Live</title>
+	<title>Monde &#8211; Mali Live</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Les matches de qualifications de la CAN reporter</title>
-		<link>./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html</link>
-					<comments>./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Mali Live]]></dc:creator>
-		<pubDate>Fri, 29 Jul 2022 18:58:52 +0000</pubDate>
-				<category><![CDATA[Sports]]></category>
-		<category><![CDATA[Les actualités du Monde]]></category>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=26</guid>
-
-					<description><![CDATA[Les journées de qualifications pour la Coupe d&#8217;Afrique des Nations (CAN) prévues en septembre ont...]]></description>
-										<content:encoded><![CDATA[<p>Les journ&eacute;es de qualifications pour la Coupe d&rsquo;Afrique des Nations (CAN) pr&eacute;vues en septembre ont &eacute;t&eacute; repouss&eacute;es au mois de mars 2023. Ce report permet aux cinq mondialistes du continent de disputer &agrave; la place des matches de pr&eacute;paration pour la Coupe du monde au Qatar (21 novembre-18 d&eacute;cembre), comme ils l&rsquo;avaient demand&eacute;. La CAN, pr&eacute;vue en juin 2023 en C&ocirc;te d&rsquo;Ivoire, a &eacute;t&eacute; report&eacute;e &agrave; janvier...</p>
-<p><a href="./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Google lance officiellement Immersive View sur Maps</title>
 		<link>./../../../2022/07/29/google-lance-officiellement-immersive-view-sur-maps/index.html</link>
 					<comments>./../../../2022/07/29/google-lance-officiellement-immersive-view-sur-maps/index.html#respond</comments>
@@ -55,7 +35,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 11:03:32 +0000</pubDate>
 				<category><![CDATA[Technologie]]></category>
-		<category><![CDATA[Les actualités du Monde]]></category>
+		<category><![CDATA[Monde]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=6</guid>
 
 					<description><![CDATA[Dans un billet de blog présentant la dernière mise à jour de&#160;Google Maps, la firme...]]></description>
@@ -75,7 +55,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 03:39:23 +0000</pubDate>
 				<category><![CDATA[Technologie]]></category>
-		<category><![CDATA[Les actualités du Monde]]></category>
+		<category><![CDATA[Monde]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=82</guid>
 
 					<description><![CDATA[Dans un article publié le 21 juillet 2022,&#160;Politico&#160;montre que les États-Unis peinent toujours à achever...]]></description>

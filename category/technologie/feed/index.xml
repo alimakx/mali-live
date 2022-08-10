@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Fri, 05 Aug 2022 14:33:42 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Aug 2022 09:51:53 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 11:03:32 +0000</pubDate>
 				<category><![CDATA[Technologie]]></category>
-		<category><![CDATA[Les actualités du Monde]]></category>
+		<category><![CDATA[Monde]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=6</guid>
 
 					<description><![CDATA[Dans un billet de blog présentant la dernière mise à jour de&#160;Google Maps, la firme...]]></description>
@@ -55,7 +55,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 03:39:23 +0000</pubDate>
 				<category><![CDATA[Technologie]]></category>
-		<category><![CDATA[Les actualités du Monde]]></category>
+		<category><![CDATA[Monde]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=82</guid>
 
 					<description><![CDATA[Dans un article publié le 21 juillet 2022,&#160;Politico&#160;montre que les États-Unis peinent toujours à achever...]]></description>

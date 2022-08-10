@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Tue, 09 Aug 2022 10:36:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Aug 2022 09:42:42 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Tue, 09 Aug 2022 10:36:01 +0000</pubDate>
 				<category><![CDATA[Art et Culture]]></category>
-		<category><![CDATA[Les actualités du Mali]]></category>
+		<category><![CDATA[Mali]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=985</guid>
 
 					<description><![CDATA[Kangaba (en langue malinké&#160;:&#160;Ka’ba) est située au cœur du&#160;Mandé, région historique du Mali, berceau de...]]></description>

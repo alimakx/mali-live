@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Football &#8211; Mali Live</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
+	<lastBuildDate>Wed, 10 Aug 2022 09:38:13 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
+	<title>Football &#8211; Mali Live</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Les USA demandent de protéger la MONUSCO</title>
+		<link>./../../../2022/07/29/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html</link>
+					<comments>./../../../2022/07/29/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Mali Live]]></dc:creator>
+		<pubDate>Fri, 29 Jul 2022 19:00:14 +0000</pubDate>
+				<category><![CDATA[Politique]]></category>
+		<category><![CDATA[Football]]></category>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=29</guid>
+
+					<description><![CDATA[Après des manifestations meurtrières contre la présence de l&#8217;ONU dans le Nord Kivu, les Etats-Unis...]]></description>
+										<content:encoded><![CDATA[<p>Apr&egrave;s des manifestations meurtri&egrave;res contre la pr&eacute;sence de l&rsquo;ONU dans le Nord Kivu, les Etats-Unis ont demand&eacute; &agrave; la R&eacute;publique d&eacute;mocratique du Congo de prot&eacute;ger la Monusco. En d&eacute;but de semaine, des manifestants ont pris d&rsquo;assaut les installations de la mission onusienne pour demander le d&eacute;part des troupes, pr&eacute;sentes depuis 1999 dans le pays. Au moins 19 victimes sont &agrave; d&eacute;plorer...</p>
+<p><a href="./../../../2022/07/29/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/07/29/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Les matches de qualifications de la CAN reporter</title>
+		<link>./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html</link>
+					<comments>./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Mali Live]]></dc:creator>
+		<pubDate>Fri, 29 Jul 2022 18:58:52 +0000</pubDate>
+				<category><![CDATA[Sports]]></category>
+		<category><![CDATA[Football]]></category>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=26</guid>
+
+					<description><![CDATA[Les journées de qualifications pour la Coupe d&#8217;Afrique des Nations (CAN) prévues en septembre ont...]]></description>
+										<content:encoded><![CDATA[<p>Les journ&eacute;es de qualifications pour la Coupe d&rsquo;Afrique des Nations (CAN) pr&eacute;vues en septembre ont &eacute;t&eacute; repouss&eacute;es au mois de mars 2023. Ce report permet aux cinq mondialistes du continent de disputer &agrave; la place des matches de pr&eacute;paration pour la Coupe du monde au Qatar (21 novembre-18 d&eacute;cembre), comme ils l&rsquo;avaient demand&eacute;. La CAN, pr&eacute;vue en juin 2023 en C&ocirc;te d&rsquo;Ivoire, a &eacute;t&eacute; report&eacute;e &agrave; janvier...</p>
+<p><a href="./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/07/29/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

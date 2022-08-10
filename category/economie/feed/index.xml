@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Tue, 09 Aug 2022 12:44:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Aug 2022 09:52:05 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Tue, 09 Aug 2022 12:44:11 +0000</pubDate>
 				<category><![CDATA[Economie]]></category>
-		<category><![CDATA[Les actualités du Mali]]></category>
+		<category><![CDATA[Mali]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=989</guid>
 
 					<description><![CDATA[Face à la détresse qu’une grande partie de la population, face à l’inflation des prix...]]></description>
@@ -55,7 +55,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Wed, 03 Aug 2022 14:18:45 +0000</pubDate>
 				<category><![CDATA[Economie]]></category>
-		<category><![CDATA[Les actualités du Mali]]></category>
+		<category><![CDATA[Mali]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=851</guid>
 
 					<description><![CDATA[Le ministère des mines maintient sa décision jusqu’au 30 septembre prochain Alors que l’hivernage bat...]]></description>
@@ -75,7 +75,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 18:55:56 +0000</pubDate>
 				<category><![CDATA[Economie]]></category>
-		<category><![CDATA[Les actualités du Mali]]></category>
+		<category><![CDATA[Mali]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=23</guid>
 
 					<description><![CDATA[Alors que le gouvernement ivoirien vient de fixer à 𝟑𝟏𝟎𝐅𝐂𝐅𝐀 son kilo, on peut noter...]]></description>

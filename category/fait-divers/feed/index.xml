@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Fri, 05 Aug 2022 14:32:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Aug 2022 09:52:17 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 18:52:01 +0000</pubDate>
 				<category><![CDATA[Fait Divers]]></category>
-		<category><![CDATA[Les actualités du Mali]]></category>
+		<category><![CDATA[Mali]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=13</guid>
 
 					<description><![CDATA[A.C, un jeune de 20 ans avait choisi comme métier de contrefaire l’huile à moteur...]]></description>
