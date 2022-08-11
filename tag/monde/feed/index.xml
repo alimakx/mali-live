@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Wed, 10 Aug 2022 09:51:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Aug 2022 08:48:28 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Donald Trump a refusé de répondre aux questions à New York dans l’enquête sur ses pratiques fiscales</title>
+		<link>./../../../2022/08/11/1008/index.html</link>
+					<comments>./../../../2022/08/11/1008/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Mali Live]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2022 08:46:03 +0000</pubDate>
+				<category><![CDATA[Politique]]></category>
+		<category><![CDATA[Monde]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1008</guid>
+
+					<description><![CDATA[Donald Trump a gardé le silence mercredi face à la procureure générale de New York...]]></description>
+										<content:encoded><![CDATA[<p>Donald Trump a gard&eacute; le silence mercredi face &agrave; la procureure g&eacute;n&eacute;rale de New York qui l&rsquo;auditionnait sous serment pour des soup&ccedil;ons de fraudes financi&egrave;res au sein de son groupe Trump Organization, en pleine temp&ecirc;te politique apr&egrave;s une perquisition spectaculaire du FBI chez lui en Floride. L&rsquo;ancien pr&eacute;sident des &Eacute;tats-Unis est vis&eacute; depuis 2019, avec deux de ses enfants Ivanka et Donald Jr...</p>
+<p><a href="./../../../2022/08/11/1008/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2022/08/11/1008/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Google lance officiellement Immersive View sur Maps</title>
 		<link>./../../../2022/07/29/google-lance-officiellement-immersive-view-sur-maps/index.html</link>
 					<comments>./../../../2022/07/29/google-lance-officiellement-immersive-view-sur-maps/index.html#respond</comments>
