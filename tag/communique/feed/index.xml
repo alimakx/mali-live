@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Communiqué - Mali Live</title>
+	<title>Archives des Communiqué - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>./../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
 	<lastBuildDate>Wed, 17 Aug 2022 09:34:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -22,14 +22,14 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Communiqué - Mali Live</title>
-	<link>./../../../index.html</link>
+	<title>Archives des Communiqué - Mali Live</title>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Communiqué Conseil des Ministres du 03 Aout 2022</title>
-		<link>./../../../politique/communique-du-conseil-des-ministres-du-03-aout-2022/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=communique-du-conseil-des-ministres-du-03-aout-2022</link>
+		<link>./../../../politique/communique-du-conseil-des-ministres-du-03-aout-2022/index.html</link>
 					<comments>./../../../politique/communique-du-conseil-des-ministres-du-03-aout-2022/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -39,8 +39,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=888</guid>
 
 					<description><![CDATA[<p>Le Conseil des Ministres s’est réuni en session ordinaire, le mercredi 03 août 2022, dans sa salle de délibérations au Palais de Koulouba, sous la présidence du Colonel Assimi GOITA, Président de la Transition, Chef de l’État.</p>
-<p>The post <a href="./../../../politique/communique-du-conseil-des-ministres-du-03-aout-2022/index.html">Communiqué Conseil des Ministres du 03 Aout 2022</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-2 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../politique/communique-du-conseil-des-ministres-du-03-aout-2022/index.html">Communiqué Conseil des Ministres du 03 Aout 2022</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-2 wp-block-columns">
 <div class="wp-container-1 wp-block-column"></div>
 </div>
 
@@ -216,7 +218,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Communiqué du Conseil des Ministres 03 Aout 2022" data-page-url="{{ PAGE_URL }}" data-page-title="Communiqué du Conseil des Ministres 03 Aout 2022"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/communique-du-conseil-des-ministres-du-03-aout-2022/index.html">Communiqué Conseil des Ministres du 03 Aout 2022</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/communique-du-conseil-des-ministres-du-03-aout-2022/index.html">Communiqué Conseil des Ministres du 03 Aout 2022</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/communique-du-conseil-des-ministres-du-03-aout-2022/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -225,7 +229,7 @@
 			</item>
 		<item>
 		<title>Communiqué de l’État-major Général des Armées</title>
-		<link>./../../../insecurite/communique-de-letat-major-general-des-armees/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=communique-de-letat-major-general-des-armees</link>
+		<link>./../../../insecurite/communique-de-letat-major-general-des-armees/index.html</link>
 					<comments>./../../../insecurite/communique-de-letat-major-general-des-armees/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -236,8 +240,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=845</guid>
 
 					<description><![CDATA[<p>Localisation et destruction des refuges logistiques et des rescapés dans les forêts de Diabali Koura,...</p>
-<p>The post <a href="./../../../insecurite/communique-de-letat-major-general-des-armees/index.html">Communiqué de l’État-major Général des Armées</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<h2>Localisation et destruction des refuges logistiques et des rescapés dans les forêts de Diabali Koura, Koromambougou et Filadionbougou.</h2>
+<p>L’article <a rel="nofollow" href="./../../../insecurite/communique-de-letat-major-general-des-armees/index.html">Communiqué de l’État-major Général des Armées</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2>Localisation et destruction des refuges logistiques et des rescapés dans les forêts de Diabali Koura, Koromambougou et Filadionbougou.</h2>
 
 
 
@@ -281,7 +287,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Communiqué de l’État-major Général des Armées" data-page-url="{{ PAGE_URL }}" data-page-title="Communiqué de l’État-major Général des Armées"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../insecurite/communique-de-letat-major-general-des-armees/index.html">Communiqué de l’État-major Général des Armées</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../insecurite/communique-de-letat-major-general-des-armees/index.html">Communiqué de l’État-major Général des Armées</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../insecurite/communique-de-letat-major-general-des-armees/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -290,7 +298,7 @@
 			</item>
 		<item>
 		<title>Communiqué  N°035 du Gouvernement Malien</title>
-		<link>./../../../politique/communique-n035-du-gouvernement-de-la-transition-en-reponse-aux-propos-tenus-par-le-president-de-la-republique-francaise-emmanuel-macron-lors-de-sa-tournee-en-guinee-bissau-le-28-juillet-20/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=communique-n035-du-gouvernement-de-la-transition-en-reponse-aux-propos-tenus-par-le-president-de-la-republique-francaise-emmanuel-macron-lors-de-sa-tournee-en-guinee-bissau-le-28-juillet-20</link>
+		<link>./../../../politique/communique-n035-du-gouvernement-de-la-transition-en-reponse-aux-propos-tenus-par-le-president-de-la-republique-francaise-emmanuel-macron-lors-de-sa-tournee-en-guinee-bissau-le-28-juillet-20/index.html</link>
 					<comments>./../../../politique/communique-n035-du-gouvernement-de-la-transition-en-reponse-aux-propos-tenus-par-le-president-de-la-republique-francaise-emmanuel-macron-lors-de-sa-tournee-en-guinee-bissau-le-28-juillet-20/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -299,8 +307,10 @@
 		<category><![CDATA[Communiqué]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=790</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<figure class="wp-block-image size-full is-resized"><img src="./../../../wp-content/uploads/2022/08/Communique_35-1.jpg" alt="" class="wp-image-793" width="839" height="1008" srcset="./../../../wp-content/uploads/2022/08/Communique_35-1.jpg 719w, ./../../../wp-content/uploads/2022/08/Communique_35-1-250x300.jpg 250w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
+					<description><![CDATA[<p>L’article <a rel="nofollow" href="./../../../politique/communique-n035-du-gouvernement-de-la-transition-en-reponse-aux-propos-tenus-par-le-president-de-la-republique-francaise-emmanuel-macron-lors-de-sa-tournee-en-guinee-bissau-le-28-juillet-20/index.html">Communiqué  N°035 du Gouvernement Malien</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img src="./../../../wp-content/uploads/2022/08/Communique_35-1.jpg" alt="" class="wp-image-793" width="839" height="1008" srcset="./../../../wp-content/uploads/2022/08/Communique_35-1.jpg 719w, ./../../../wp-content/uploads/2022/08/Communique_35-1-250x300.jpg 250w" sizes="(max-width: 839px) 100vw, 839px" /></figure>
 
 
 
@@ -316,7 +326,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Communiqué  N°035 du Gouvernement de la Transition" data-page-url="{{ PAGE_URL }}" data-page-title="Communiqué  N°035 du Gouvernement de la Transition"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/communique-n035-du-gouvernement-de-la-transition-en-reponse-aux-propos-tenus-par-le-president-de-la-republique-francaise-emmanuel-macron-lors-de-sa-tournee-en-guinee-bissau-le-28-juillet-20/index.html">Communiqué  N°035 du Gouvernement Malien</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/communique-n035-du-gouvernement-de-la-transition-en-reponse-aux-propos-tenus-par-le-president-de-la-republique-francaise-emmanuel-macron-lors-de-sa-tournee-en-guinee-bissau-le-28-juillet-20/index.html">Communiqué  N°035 du Gouvernement Malien</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/communique-n035-du-gouvernement-de-la-transition-en-reponse-aux-propos-tenus-par-le-president-de-la-republique-francaise-emmanuel-macron-lors-de-sa-tournee-en-guinee-bissau-le-28-juillet-20/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>

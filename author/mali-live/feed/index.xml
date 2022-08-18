@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Mali Live - Mali Live</title>
+	<title>Mali Live, auteur/autrice sur Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>./../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Wed, 17 Aug 2022 10:23:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Aug 2022 10:04:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,14 +22,55 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Mali Live - Mali Live</title>
-	<link>./../../../index.html</link>
+	<title>Mali Live, auteur/autrice sur Mali Live</title>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le Mali accuse la France d’aide aux terroristes</title>
+		<link>./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html</link>
+					<comments>./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Mali Live]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 09:43:26 +0000</pubDate>
+				<category><![CDATA[Défense]]></category>
+		<category><![CDATA[Minusma]]></category>
+		<category><![CDATA[Terrorisme au Sahel]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1178</guid>
+
+					<description><![CDATA[<p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU,...</p>
+<p>L’article <a rel="nofollow" href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU, le ministère des Affaires étrangères du Mali accuse la France de violations répétitives et fréquentes de l’espace aérien malien par les forces françaises. Dans la lettre signé du ministre des Affaires étrangères Abdoulaye Diop, il assure que le gouvernement dispose de plusieurs éléments de preuve que ces violations flagrantes de l’espace aérien malien ont servi à la France pour collecter des renseignements au profit des groupes terroristes opérant dans le Sahel et pour leur larguer des armes et munitions. Le gouvernement rappelle que c’est en raison de suspicion de manœuvres de déstabilisation de la France que le Mali s’est fermement opposé à la demande soutien aérien de la France au profit de la MINUSMA, afin que « France ne se serve pas de la mission onusienne comme prétexte pour mener des opérations subversives visant à fragiliser d’avantage le Mali et la région du Sahel ». En outre, le Mali demande à ce que la France cesse immédiatement ses actes d’agression contre le Mali, en cas de persistance, le Mali dit se réserver le droit de faire usage de la légitime défense.</p>
+
+
+
+<p>Source: JM</p>
+
+
+
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-2 wp-block-column"></div>
+</div>
+
+
+
+<div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Le Mali accuse la France d’aide aux terroristes" data-page-url="{{ PAGE_URL }}" data-page-title="Le Mali accuse la France d’aide aux terroristes"></div>
+<script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Importation, vente, usage du Chicha interdit</title>
-		<link>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=importation-vente-usage-du-chicha-interdit</link>
+		<link>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html</link>
 					<comments>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -39,8 +80,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1173</guid>
 
 					<description><![CDATA[<p>A travers un arrêté interministériel, la chicha est interdite au Mali. Le ministère de la...</p>
-<p>The post <a href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>A travers un arrêté interministériel, la chicha est interdite au Mali.</strong></p>
+<p>L’article <a rel="nofollow" href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>A travers un arrêté interministériel, la chicha est interdite au Mali.</strong></p>
 
 
 
@@ -64,15 +107,17 @@
 
 
 
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-2 wp-block-column"></div>
+<div class="wp-container-6 wp-block-columns">
+<div class="wp-container-5 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Importation, vente, usage du Chicha interdit" data-page-url="{{ PAGE_URL }}" data-page-title="Importation, vente, usage du Chicha interdit"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/importation-vente-usage-du-chicha-interdit/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -81,7 +126,7 @@
 			</item>
 		<item>
 		<title>Mali : Barkhane quitte définitivement le pays</title>
-		<link>./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mali-barkhane-quitte-definitivement-le-pays</link>
+		<link>./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html</link>
 					<comments>./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -91,8 +136,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1167</guid>
 
 					<description><![CDATA[<p>L’état-major français des armées a annoncé, hier, que le dernier détachement de la force Barkhane...</p>
-<p>The post <a href="./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html">Mali : Barkhane quitte définitivement le pays</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>L’état-major français des armées a annoncé, hier, que le dernier détachement de la force Barkhane a quitté le Mali ce lundi 15 août 2022. Selon l’Élysée, c’est le 17 février dernier, constatant que les conditions politiques et opérationnelles n’étaient plus réunies pour rester engagée au Mali que la France a décidé, en concertation avec ses partenaires africains et européens, de ré-articuler<strong> le dispositif de l’opération Barkhane en dehors du territoire malien.</strong></p>
+<p>L’article <a rel="nofollow" href="./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html">Mali : Barkhane quitte définitivement le pays</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>L’état-major français des armées a annoncé, hier, que le dernier détachement de la force Barkhane a quitté le Mali ce lundi 15 août 2022. Selon l’Élysée, c’est le 17 février dernier, constatant que les conditions politiques et opérationnelles n’étaient plus réunies pour rester engagée au Mali que la France a décidé, en concertation avec ses partenaires africains et européens, de ré-articuler<strong> le dispositif de l’opération Barkhane en dehors du territoire malien.</strong></p>
 
 
 
@@ -116,8 +163,8 @@
 
 
 
-<div class="wp-container-7 wp-block-columns">
-<div class="wp-container-6 wp-block-column"></div>
+<div class="wp-container-10 wp-block-columns">
+<div class="wp-container-9 wp-block-column"></div>
 </div>
 
 
@@ -126,15 +173,17 @@
 
 
 
-<div class="wp-container-9 wp-block-columns">
-<div class="wp-container-8 wp-block-column"></div>
+<div class="wp-container-12 wp-block-columns">
+<div class="wp-container-11 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Mali : Barkhane quitte définitivement le pays" data-page-url="{{ PAGE_URL }}" data-page-title="Mali : Barkhane quitte définitivement le pays"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html">Mali : Barkhane quitte définitivement le pays</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html">Mali : Barkhane quitte définitivement le pays</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../armee/mali-barkhane-quitte-definitivement-le-pays/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -143,7 +192,7 @@
 			</item>
 		<item>
 		<title>L&#8217;Allemagne demande l&#8217;autorisation de survole au Mali</title>
-		<link>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali</link>
+		<link>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html</link>
 					<comments>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -154,9 +203,11 @@
 		<guid isPermaLink="false">./../../../index.html?p=1079</guid>
 
 					<description><![CDATA[<p>Pour des impératifs de sécurité nationale selon Abdoulaye Diop Ministre malien des Affaires étrangères Le...</p>
-<p>The post <a href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L’Allemagne demande l’autorisation de survole au Mali</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-13 wp-block-columns">
-<div class="wp-container-12 wp-block-column"></div>
+<p>L’article <a rel="nofollow" href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L&rsquo;Allemagne demande l&rsquo;autorisation de survole au Mali</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-16 wp-block-columns">
+<div class="wp-container-15 wp-block-column"></div>
 </div>
 
 
@@ -205,15 +256,17 @@
 
 
 
-<div class="wp-container-15 wp-block-columns">
-<div class="wp-container-14 wp-block-column"></div>
+<div class="wp-container-18 wp-block-columns">
+<div class="wp-container-17 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="L'Allemagne doit demander autorisation de survol au Mali" data-page-url="{{ PAGE_URL }}" data-page-title="L'Allemagne doit demander autorisation de survol au Mali"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L’Allemagne demande l’autorisation de survole au Mali</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L&rsquo;Allemagne demande l&rsquo;autorisation de survole au Mali</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -222,7 +275,7 @@
 			</item>
 		<item>
 		<title>Moscou affirme son soutien contre les terrorisme</title>
-		<link>./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes</link>
+		<link>./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html</link>
 					<comments>./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -233,8 +286,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1075</guid>
 
 					<description><![CDATA[<p>Après plusieurs nouvelles attaques terroristes au Mali qui ont fait plus de 40 morts, la...</p>
-<p>The post <a href="./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html">Moscou affirme son soutien contre les terrorisme</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<h2>Après plusieurs nouvelles attaques terroristes au Mali qui ont fait plus de 40 morts, la Russie rappelle que selon les autorités du pays les extrémistes bénéficient d’une assistance étrangère et promet d’aider Bamako à les combattre.</h2>
+<p>L’article <a rel="nofollow" href="./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html">Moscou affirme son soutien contre les terrorisme</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2>Après plusieurs nouvelles attaques terroristes au Mali qui ont fait plus de 40 morts, la Russie rappelle que selon les autorités du pays les extrémistes bénéficient d’une assistance étrangère et promet d’aider Bamako à les combattre.</h2>
 
 
 
@@ -254,8 +309,8 @@
 
 
 
-<div class="wp-container-19 wp-block-columns">
-<div class="wp-container-18 wp-block-column"></div>
+<div class="wp-container-22 wp-block-columns">
+<div class="wp-container-21 wp-block-column"></div>
 </div>
 
 
@@ -264,15 +319,17 @@
 
 
 
-<div class="wp-container-21 wp-block-columns">
-<div class="wp-container-20 wp-block-column"></div>
+<div class="wp-container-24 wp-block-columns">
+<div class="wp-container-23 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Moscou réaffirme son intention soutient au Mali" data-page-url="{{ PAGE_URL }}" data-page-title="Moscou réaffirme son intention soutient au Mali"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html">Moscou affirme son soutien contre les terrorisme</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html">Moscou affirme son soutien contre les terrorisme</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -281,7 +338,7 @@
 			</item>
 		<item>
 		<title>Basket: Le Mali a reconquis le titre continental</title>
-		<link>./../../../sports/fiba-u18-le-mali-a-reconquis-le-titre-continental/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fiba-u18-le-mali-a-reconquis-le-titre-continental</link>
+		<link>./../../../sports/fiba-u18-le-mali-a-reconquis-le-titre-continental/index.html</link>
 					<comments>./../../../sports/fiba-u18-le-mali-a-reconquis-le-titre-continental/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -291,8 +348,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1065</guid>
 
 					<description><![CDATA[<p>ANTSIRABE (Madagascar) – Le Mali a reconquis son titre en dominant nettement l’Égypte, championne d’Afrique...</p>
-<p>The post <a href="./../../../sports/fiba-u18-le-mali-a-reconquis-le-titre-continental/index.html">Basket: Le Mali a reconquis le titre continental</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>ANTSIRABE (Madagascar) – Le Mali a reconquis son titre en dominant nettement l’Égypte, championne d’Afrique en titre, en finale du Championnat d’Afrique Féminin U18 FIBA 2022. Les Maliennes se sont imposées dans tous les quart-temps pour s’imposer 86-54 au Gymnase couvert d’Anstirabe.</p>
+<p>L’article <a rel="nofollow" href="./../../../sports/fiba-u18-le-mali-a-reconquis-le-titre-continental/index.html">Basket: Le Mali a reconquis le titre continental</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>ANTSIRABE (Madagascar) – Le Mali a reconquis son titre en dominant nettement l’Égypte, championne d’Afrique en titre, en finale du Championnat d’Afrique Féminin U18 FIBA 2022. Les Maliennes se sont imposées dans tous les quart-temps pour s’imposer 86-54 au Gymnase couvert d’Anstirabe.</p>
 
 
 
@@ -408,15 +467,17 @@
 
 
 
-<div class="wp-container-24 wp-block-columns">
-<div class="wp-container-23 wp-block-column"></div>
+<div class="wp-container-27 wp-block-columns">
+<div class="wp-container-26 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Le Mali a reconquis le titre continental" data-page-url="{{ PAGE_URL }}" data-page-title="Le Mali a reconquis le titre continental"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../sports/fiba-u18-le-mali-a-reconquis-le-titre-continental/index.html">Basket: Le Mali a reconquis le titre continental</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../sports/fiba-u18-le-mali-a-reconquis-le-titre-continental/index.html">Basket: Le Mali a reconquis le titre continental</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../sports/fiba-u18-le-mali-a-reconquis-le-titre-continental/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -425,7 +486,7 @@
 			</item>
 		<item>
 		<title>Douanes : Une Représentation ouverte en GUINÉE</title>
-		<link>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mali-douanes-une-representation-ouverte-en-guinee</link>
+		<link>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html</link>
 					<comments>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -435,8 +496,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1062</guid>
 
 					<description><![CDATA[<p>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour...</p>
-<p>The post <a href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<h2>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour l’Administration des douanes pour sécuriser les recettes au profit du trésor public et fluidifier la chaîne logistique.</h2>
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour l’Administration des douanes pour sécuriser les recettes au profit du trésor public et fluidifier la chaîne logistique.</h2>
 
 
 
@@ -536,8 +599,8 @@
 
 
 
-<div class="wp-container-28 wp-block-columns">
-<div class="wp-container-27 wp-block-column"></div>
+<div class="wp-container-31 wp-block-columns">
+<div class="wp-container-30 wp-block-column"></div>
 </div>
 
 
@@ -546,15 +609,17 @@
 
 
 
-<div class="wp-container-30 wp-block-columns">
-<div class="wp-container-29 wp-block-column"></div>
+<div class="wp-container-33 wp-block-columns">
+<div class="wp-container-32 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Douanes : Une Représentation ouverte en GUINÉE" data-page-url="{{ PAGE_URL }}" data-page-title="Douanes : Une Représentation ouverte en GUINÉE"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -563,7 +628,7 @@
 			</item>
 		<item>
 		<title>Gao: Ultimatum de 72h à la force Barkhane</title>
-		<link>./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville</link>
+		<link>./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html</link>
 					<comments>./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -573,9 +638,11 @@
 		<guid isPermaLink="false">./../../../index.html?p=1054</guid>
 
 					<description><![CDATA[<p>Des manifestants qui se déclarent « forces vives » de la ville de Gao ont...</p>
-<p>The post <a href="./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html">Gao: Ultimatum de 72h à la force Barkhane</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-35 wp-block-columns">
-<div class="wp-container-34 wp-block-column"></div>
+<p>L’article <a rel="nofollow" href="./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html">Gao: Ultimatum de 72h à la force Barkhane</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-38 wp-block-columns">
+<div class="wp-container-37 wp-block-column"></div>
 </div>
 
 
@@ -600,8 +667,8 @@
 
 
 
-<div class="wp-container-37 wp-block-columns">
-<div class="wp-container-36 wp-block-column"></div>
+<div class="wp-container-40 wp-block-columns">
+<div class="wp-container-39 wp-block-column"></div>
 </div>
 
 
@@ -614,15 +681,17 @@
 
 
 
-<div class="wp-container-39 wp-block-columns">
-<div class="wp-container-38 wp-block-column"></div>
+<div class="wp-container-42 wp-block-columns">
+<div class="wp-container-41 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Gao: 72h à la force Barkhane de quitter la ville" data-page-url="{{ PAGE_URL }}" data-page-title="Gao: 72h à la force Barkhane de quitter la ville"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html">Gao: Ultimatum de 72h à la force Barkhane</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html">Gao: Ultimatum de 72h à la force Barkhane</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -631,7 +700,7 @@
 			</item>
 		<item>
 		<title>Macky Sall: Président de l’UA est à Bamako</title>
-		<link>./../../../politique/macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako</link>
+		<link>./../../../politique/macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako/index.html</link>
 					<comments>./../../../politique/macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -641,9 +710,11 @@
 		<guid isPermaLink="false">./../../../index.html?p=1050</guid>
 
 					<description><![CDATA[<p>Le Président de la Transition, SE le Colonel Assimi GOÏTA, Chef de l’État, a accueilli...</p>
-<p>The post <a href="./../../../politique/macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako/index.html">Macky Sall: Président de l’UA est à Bamako</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-46 wp-block-columns">
-<div class="wp-container-45 wp-block-column"></div>
+<p>L’article <a rel="nofollow" href="./../../../politique/macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako/index.html">Macky Sall: Président de l’UA est à Bamako</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-49 wp-block-columns">
+<div class="wp-container-48 wp-block-column"></div>
 </div>
 
 
@@ -668,8 +739,8 @@
 
 
 
-<div class="wp-container-48 wp-block-columns">
-<div class="wp-container-47 wp-block-column"></div>
+<div class="wp-container-51 wp-block-columns">
+<div class="wp-container-50 wp-block-column"></div>
 </div>
 
 
@@ -678,25 +749,27 @@
 
 
 
-<div class="wp-container-50 wp-block-columns">
-<div class="wp-container-49 wp-block-column"></div>
+<div class="wp-container-53 wp-block-columns">
+<div class="wp-container-52 wp-block-column"></div>
 </div>
 
 
 
-<div class="wp-container-53 wp-block-columns">
-<div class="wp-container-51 wp-block-column"></div>
+<div class="wp-container-56 wp-block-columns">
+<div class="wp-container-54 wp-block-column"></div>
 
 
 
-<div class="wp-container-52 wp-block-column"></div>
+<div class="wp-container-55 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Macky Sall: Président de l’UA, attendu à Bamako" data-page-url="{{ PAGE_URL }}" data-page-title="Macky Sall: Président de l’UA, attendu à Bamako"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako/index.html">Macky Sall: Président de l’UA est à Bamako</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako/index.html">Macky Sall: Président de l’UA est à Bamako</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/macky-sall-president-en-exercice-de-lunion-africaine-attendu-a-bamako/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -705,7 +778,7 @@
 			</item>
 		<item>
 		<title>Basket : Le Mali en finale contre l’Égypte</title>
-		<link>./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=u18-basket-le-mali-en-finale-contre-legypte</link>
+		<link>./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html</link>
 					<comments>./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -715,8 +788,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1046</guid>
 
 					<description><![CDATA[<p>La sélection nationale féminine s’est brillamment qualifiée pour le bouquet final, en écrasant l’Angola 67-36,...</p>
-<p>The post <a href="./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html">Basket : Le Mali en finale contre l’Égypte</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>La sélection nationale féminine s’est brillamment qualifiée pour le bouquet final, en écrasant l’Angola 67-36, hier au Palais des sports de Mahamasina à Madagascar. Aujourd’hui, les U18 Garçons seront à leur tour face aux Malgaches pour une place en finale et au Mondial</strong>.</p>
+<p>L’article <a rel="nofollow" href="./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html">Basket : Le Mali en finale contre l’Égypte</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>La sélection nationale féminine s’est brillamment qualifiée pour le bouquet final, en écrasant l’Angola 67-36, hier au Palais des sports de Mahamasina à Madagascar. Aujourd’hui, les U18 Garçons seront à leur tour face aux Malgaches pour une place en finale et au Mondial</strong>.</p>
 
 
 
@@ -744,8 +819,8 @@
 
 
 
-<div class="wp-container-57 wp-block-columns">
-<div class="wp-container-56 wp-block-column"></div>
+<div class="wp-container-60 wp-block-columns">
+<div class="wp-container-59 wp-block-column"></div>
 </div>
 
 
@@ -754,104 +829,19 @@
 
 
 
-<div class="wp-container-59 wp-block-columns">
-<div class="wp-container-58 wp-block-column"></div>
+<div class="wp-container-62 wp-block-columns">
+<div class="wp-container-61 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="U18 Basket : Le Mali en finale contre l’Égypte" data-page-url="{{ PAGE_URL }}" data-page-title="U18 Basket : Le Mali en finale contre l’Égypte"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html">Basket : Le Mali en finale contre l’Égypte</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html">Basket : Le Mali en finale contre l’Égypte</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>L’Allemagne suspend ses opérations militaires</title>
-		<link>./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol</link>
-					<comments>./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[Mali Live]]></dc:creator>
-		<pubDate>Sat, 13 Aug 2022 09:28:55 +0000</pubDate>
-				<category><![CDATA[Armée]]></category>
-		<category><![CDATA[Politique]]></category>
-		<category><![CDATA[Minusma]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=1043</guid>
-
-					<description><![CDATA[<p>L’Allemagne a annoncé vendredi suspendre “jusqu’à nouvel ordre” la majeure partie de ses opérations militaires...</p>
-<p>The post <a href="./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html">L’Allemagne suspend ses opérations militaires</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p></p>
-
-
-
-<div class="wp-container-64 wp-block-columns">
-<div class="wp-container-63 wp-block-column"></div>
-</div>
-
-
-
-<p>L’Allemagne a annoncé vendredi suspendre “jusqu’à nouvel ordre” la majeure partie de ses opérations militaires au Mali dans le cadre de la mission de l’ONU (Minusma), en dénonçant un nouveau refus de survol par les autorités maliennes.</p>
-
-
-
-<p>“Le gouvernement malien a encore une fois refusé d’autoriser un vol prévu aujourd’hui” qui devait assurer une rotation de personnel, a expliqué un porte-parole du ministère allemand de la Défense.</p>
-
-
-
-<p>En conséquence, “nous suspendons jusqu’à nouvel ordre nos opérations de reconnaissance et les vols de transport par hélicoptère” car “il n’est plus possible de soutenir la Minusma sur le plan opérationnel”, a-t-il ajouté.</p>
-
-
-
-<p>Sans le nouveau personnel qui devait en partie “remplacer les forces françaises” qui se retirent, “la sécurité sur place n’est plus assurée” et “les forces restantes doivent être dédiées à la sécurisation” et ne pourront plus assurer leurs missions habituelles, a expliqué le porte-parole lors d’une conférence de presse.</p>
-
-
-
-<p>Le refus de survol est intervenu malgré des assurances contraires de la part du ministre malien de la Défense, Sadio Camara, lors d’un entretien téléphonique jeudi avec son homologue allemande Christine Lambrecht, a-t-il ajouté.</p>
-
-
-
-<p>“Les actes de Camara parlent une autre langue que ses mots”, a dénoncé la ministre allemande sur Twitter.</p>
-
-
-
-<p>La décision allemande intervient alors que le Mali, qui a poussé vers la sortie le vieil allié français et ardemment relancé la coopération avec Moscou, fait depuis quelques semaines face à une résurgence d’attaques de la nébuleuse du Groupe de soutien à l’Islam et aux musulmans (GSIM, JNIM en arabe).</p>
-
-
-
-<p>Les rapports entre la junte au pouvoir à Bamako et Paris, ancienne puissance coloniale, se sont brutalement dégradés ces derniers mois, en particulier depuis l’arrivée au Mali de paramilitaires du groupe de sécurité privé russe Wagner, poussant les deux pays à la rupture après neuf ans de présence française ininterrompue pour lutter contre les jihadistes.</p>
-
-
-
-<p>La force française Barkhane est actuellement en train de finaliser l’évacuation de ses matériels de ce pays.</p>
-
-
-
-<p>Les relations entre le Mali et l’ONU, dont les casques bleus sont présents dans le pays depuis 2013, se sont également dégradées ces dernières semaines.</p>
-
-
-
-<div class="wp-container-65 wp-block-columns"></div>
-
-
-
-<p>Source: <strong>TV5MONDE</strong></p>
-
-
-
-<div class="wp-container-67 wp-block-columns">
-<div class="wp-container-66 wp-block-column"></div>
-</div>
-
-
-
-<div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="L'Allemagne suspend ses opérations militaires" data-page-url="{{ PAGE_URL }}" data-page-title="L'Allemagne suspend ses opérations militaires"></div>
-<script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html">L’Allemagne suspend ses opérations militaires</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

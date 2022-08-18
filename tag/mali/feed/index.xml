@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Mali - Mali Live</title>
+	<title>Archives des Mali - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>./../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
 	<lastBuildDate>Wed, 17 Aug 2022 10:23:15 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -22,14 +22,14 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Mali - Mali Live</title>
-	<link>./../../../index.html</link>
+	<title>Archives des Mali - Mali Live</title>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Importation, vente, usage du Chicha interdit</title>
-		<link>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=importation-vente-usage-du-chicha-interdit</link>
+		<link>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html</link>
 					<comments>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -39,8 +39,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1173</guid>
 
 					<description><![CDATA[<p>A travers un arrêté interministériel, la chicha est interdite au Mali. Le ministère de la...</p>
-<p>The post <a href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>A travers un arrêté interministériel, la chicha est interdite au Mali.</strong></p>
+<p>L’article <a rel="nofollow" href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>A travers un arrêté interministériel, la chicha est interdite au Mali.</strong></p>
 
 
 
@@ -72,7 +74,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Importation, vente, usage du Chicha interdit" data-page-url="{{ PAGE_URL }}" data-page-title="Importation, vente, usage du Chicha interdit"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/importation-vente-usage-du-chicha-interdit/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -81,7 +85,7 @@
 			</item>
 		<item>
 		<title>L&#8217;Allemagne demande l&#8217;autorisation de survole au Mali</title>
-		<link>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali</link>
+		<link>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html</link>
 					<comments>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -92,8 +96,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1079</guid>
 
 					<description><![CDATA[<p>Pour des impératifs de sécurité nationale selon Abdoulaye Diop Ministre malien des Affaires étrangères Le...</p>
-<p>The post <a href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L’Allemagne demande l’autorisation de survole au Mali</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-7 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L&rsquo;Allemagne demande l&rsquo;autorisation de survole au Mali</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-7 wp-block-columns">
 <div class="wp-container-6 wp-block-column"></div>
 </div>
 
@@ -151,7 +157,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="L'Allemagne doit demander autorisation de survol au Mali" data-page-url="{{ PAGE_URL }}" data-page-title="L'Allemagne doit demander autorisation de survol au Mali"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L’Allemagne demande l’autorisation de survole au Mali</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L&rsquo;Allemagne demande l&rsquo;autorisation de survole au Mali</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -160,7 +168,7 @@
 			</item>
 		<item>
 		<title>Douanes : Une Représentation ouverte en GUINÉE</title>
-		<link>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mali-douanes-une-representation-ouverte-en-guinee</link>
+		<link>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html</link>
 					<comments>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -170,8 +178,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1062</guid>
 
 					<description><![CDATA[<p>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour...</p>
-<p>The post <a href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<h2>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour l’Administration des douanes pour sécuriser les recettes au profit du trésor public et fluidifier la chaîne logistique.</h2>
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour l’Administration des douanes pour sécuriser les recettes au profit du trésor public et fluidifier la chaîne logistique.</h2>
 
 
 
@@ -289,7 +299,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Douanes : Une Représentation ouverte en GUINÉE" data-page-url="{{ PAGE_URL }}" data-page-title="Douanes : Une Représentation ouverte en GUINÉE"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -298,7 +310,7 @@
 			</item>
 		<item>
 		<title>Gao: Ultimatum de 72h à la force Barkhane</title>
-		<link>./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville</link>
+		<link>./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html</link>
 					<comments>./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -308,8 +320,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1054</guid>
 
 					<description><![CDATA[<p>Des manifestants qui se déclarent « forces vives » de la ville de Gao ont...</p>
-<p>The post <a href="./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html">Gao: Ultimatum de 72h à la force Barkhane</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-20 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html">Gao: Ultimatum de 72h à la force Barkhane</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-20 wp-block-columns">
 <div class="wp-container-19 wp-block-column"></div>
 </div>
 
@@ -357,7 +371,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Gao: 72h à la force Barkhane de quitter la ville" data-page-url="{{ PAGE_URL }}" data-page-title="Gao: 72h à la force Barkhane de quitter la ville"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html">Gao: Ultimatum de 72h à la force Barkhane</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/index.html">Gao: Ultimatum de 72h à la force Barkhane</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../insecurite/gao-des-manifestants-donnent-72h-a-la-force-barkhane-de-quitter-la-ville/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -366,7 +382,7 @@
 			</item>
 		<item>
 		<title>Basket : Le Mali en finale contre l’Égypte</title>
-		<link>./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=u18-basket-le-mali-en-finale-contre-legypte</link>
+		<link>./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html</link>
 					<comments>./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -376,8 +392,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1046</guid>
 
 					<description><![CDATA[<p>La sélection nationale féminine s’est brillamment qualifiée pour le bouquet final, en écrasant l’Angola 67-36,...</p>
-<p>The post <a href="./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html">Basket : Le Mali en finale contre l’Égypte</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>La sélection nationale féminine s’est brillamment qualifiée pour le bouquet final, en écrasant l’Angola 67-36, hier au Palais des sports de Mahamasina à Madagascar. Aujourd’hui, les U18 Garçons seront à leur tour face aux Malgaches pour une place en finale et au Mondial</strong>.</p>
+<p>L’article <a rel="nofollow" href="./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html">Basket : Le Mali en finale contre l’Égypte</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>La sélection nationale féminine s’est brillamment qualifiée pour le bouquet final, en écrasant l’Angola 67-36, hier au Palais des sports de Mahamasina à Madagascar. Aujourd’hui, les U18 Garçons seront à leur tour face aux Malgaches pour une place en finale et au Mondial</strong>.</p>
 
 
 
@@ -423,7 +441,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="U18 Basket : Le Mali en finale contre l’Égypte" data-page-url="{{ PAGE_URL }}" data-page-title="U18 Basket : Le Mali en finale contre l’Égypte"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html">Basket : Le Mali en finale contre l’Égypte</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/index.html">Basket : Le Mali en finale contre l’Égypte</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../sports/u18-basket-le-mali-en-finale-contre-legypte/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -432,7 +452,7 @@
 			</item>
 		<item>
 		<title>Le Gouvernement paye sa dette de 85,5 milliards</title>
-		<link>./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mali-le-gouvernement-paye-sa-dette</link>
+		<link>./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html</link>
 					<comments>./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -442,8 +462,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1040</guid>
 
 					<description><![CDATA[<p>Au mois de mars dernier, le ministre malien de l’Économie et des Finances, Alousséni Sanou,...</p>
-<p>The post <a href="./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html">Le Gouvernement paye sa dette de 85,5 milliards</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-35 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html">Le Gouvernement paye sa dette de 85,5 milliards</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-35 wp-block-columns">
 <div class="wp-container-34 wp-block-column"></div>
 </div>
 
@@ -511,7 +533,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Le Gouvernement paye sa dette de 85,5 milliards" data-page-url="{{ PAGE_URL }}" data-page-title="Le Gouvernement paye sa dette de 85,5 milliards"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html">Le Gouvernement paye sa dette de 85,5 milliards</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html">Le Gouvernement paye sa dette de 85,5 milliards</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/mali-le-gouvernement-paye-sa-dette/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -520,7 +544,7 @@
 			</item>
 		<item>
 		<title>WCC: le Mali représenté par le Djoliba AC</title>
-		<link>./../../../sports/west-champions-cup-le-mali-represente-par-le-djoliba-ac/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=west-champions-cup-le-mali-represente-par-le-djoliba-ac</link>
+		<link>./../../../sports/west-champions-cup-le-mali-represente-par-le-djoliba-ac/index.html</link>
 					<comments>./../../../sports/west-champions-cup-le-mali-represente-par-le-djoliba-ac/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -530,8 +554,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1025</guid>
 
 					<description><![CDATA[<p>Du 21 au 25 août prochain, la Guinée vibrera au rythme de la première édition...</p>
-<p>The post <a href="./../../../sports/west-champions-cup-le-mali-represente-par-le-djoliba-ac/index.html">WCC: le Mali représenté par le Djoliba AC</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>Du 21 au 25 août prochain, la Guinée vibrera au rythme de la première édition de la West Africa Champions Cup. Quatre équipes au total sont inscrites sur la liste dont le Djoliba AC qui représentera le Mali.&nbsp;</strong></p>
+<p>L’article <a rel="nofollow" href="./../../../sports/west-champions-cup-le-mali-represente-par-le-djoliba-ac/index.html">WCC: le Mali représenté par le Djoliba AC</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Du 21 au 25 août prochain, la Guinée vibrera au rythme de la première édition de la West Africa Champions Cup. Quatre équipes au total sont inscrites sur la liste dont le Djoliba AC qui représentera le Mali.&nbsp;</strong></p>
 
 
 
@@ -559,7 +585,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Donald Trump a refusé de répondre aux questions à New York" data-page-url="{{ PAGE_URL }}" data-page-title="Donald Trump a refusé de répondre aux questions à New York"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../sports/west-champions-cup-le-mali-represente-par-le-djoliba-ac/index.html">WCC: le Mali représenté par le Djoliba AC</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../sports/west-champions-cup-le-mali-represente-par-le-djoliba-ac/index.html">WCC: le Mali représenté par le Djoliba AC</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../sports/west-champions-cup-le-mali-represente-par-le-djoliba-ac/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -568,7 +596,7 @@
 			</item>
 		<item>
 		<title>La CEDEAO asphyxie les banques maliennes</title>
-		<link>./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale</link>
+		<link>./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html</link>
 					<comments>./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -579,8 +607,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1018</guid>
 
 					<description><![CDATA[<p>La CEDEAO et l&#8217;UEMOA sont prises en flagrant délit par les autorités maliennes de la...</p>
-<p>The post <a href="./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html">La CEDEAO asphyxie les banques maliennes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-47 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html">La CEDEAO asphyxie les banques maliennes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-47 wp-block-columns">
 <div class="wp-container-46 wp-block-column"></div>
 </div>
 
@@ -632,7 +662,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Donald Trump a refusé de répondre aux questions à New York" data-page-url="{{ PAGE_URL }}" data-page-title="Donald Trump a refusé de répondre aux questions à New York"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html">La CEDEAO asphyxie les banques maliennes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html">La CEDEAO asphyxie les banques maliennes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -641,7 +673,7 @@
 			</item>
 		<item>
 		<title>Poutine s’entretient avec Assimi Goïta</title>
-		<link>./../../../politique/poutine-sentretient-avec-le-dirigeant-malien-assimi-goita/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=poutine-sentretient-avec-le-dirigeant-malien-assimi-goita</link>
+		<link>./../../../politique/poutine-sentretient-avec-le-dirigeant-malien-assimi-goita/index.html</link>
 					<comments>./../../../politique/poutine-sentretient-avec-le-dirigeant-malien-assimi-goita/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -651,8 +683,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1003</guid>
 
 					<description><![CDATA[<p>Le Président russe Vladimir Poutine s’est entretenu au téléphone avec le chef d’État malien par...</p>
-<p>The post <a href="./../../../politique/poutine-sentretient-avec-le-dirigeant-malien-assimi-goita/index.html">Poutine s’entretient avec Assimi Goïta</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-56 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../politique/poutine-sentretient-avec-le-dirigeant-malien-assimi-goita/index.html">Poutine s’entretient avec Assimi Goïta</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-56 wp-block-columns">
 <div class="wp-container-55 wp-block-column"></div>
 </div>
 
@@ -700,7 +734,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Poutine s’entretient avec Assimi Goïta" data-page-url="{{ PAGE_URL }}" data-page-title="Poutine s’entretient avec Assimi Goïta"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/poutine-sentretient-avec-le-dirigeant-malien-assimi-goita/index.html">Poutine s’entretient avec Assimi Goïta</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/poutine-sentretient-avec-le-dirigeant-malien-assimi-goita/index.html">Poutine s’entretient avec Assimi Goïta</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/poutine-sentretient-avec-le-dirigeant-malien-assimi-goita/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -709,7 +745,7 @@
 			</item>
 		<item>
 		<title>Accord pour la Paix et la Réconciliation au Mali</title>
-		<link>./../../../politique/accord-pour-la-paix-et-la-reconciliation-au-mali/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=accord-pour-la-paix-et-la-reconciliation-au-mali</link>
+		<link>./../../../politique/accord-pour-la-paix-et-la-reconciliation-au-mali/index.html</link>
 					<comments>./../../../politique/accord-pour-la-paix-et-la-reconciliation-au-mali/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -719,8 +755,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=996</guid>
 
 					<description><![CDATA[<p>L’hôtel Radisson Collection (Ex- Shératon) a abrité, le vendredi 05 août 2022, la cérémonie de...</p>
-<p>The post <a href="./../../../politique/accord-pour-la-paix-et-la-reconciliation-au-mali/index.html">Accord pour la Paix et la Réconciliation au Mali</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-65 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../politique/accord-pour-la-paix-et-la-reconciliation-au-mali/index.html">Accord pour la Paix et la Réconciliation au Mali</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-65 wp-block-columns">
 <div class="wp-container-64 wp-block-column"></div>
 </div>
 
@@ -768,7 +806,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Accord pour la Paix et la Réconciliation au Mali" data-page-url="{{ PAGE_URL }}" data-page-title="Accord pour la Paix et la Réconciliation au Mali"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/accord-pour-la-paix-et-la-reconciliation-au-mali/index.html">Accord pour la Paix et la Réconciliation au Mali</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/accord-pour-la-paix-et-la-reconciliation-au-mali/index.html">Accord pour la Paix et la Réconciliation au Mali</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/accord-pour-la-paix-et-la-reconciliation-au-mali/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>

@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Fait Divers - Mali Live</title>
+	<title>Archives des Fait Divers - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>./../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
 	<lastBuildDate>Tue, 16 Aug 2022 18:40:21 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -22,14 +22,14 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Fait Divers - Mali Live</title>
-	<link>./../../../index.html</link>
+	<title>Archives des Fait Divers - Mali Live</title>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Fait Divers: Huile à moteur frelatée</title>
-		<link>./../../../fait-divers/vente-dhuile-a-moteur-frelatee-de-la-station-shell/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vente-dhuile-a-moteur-frelatee-de-la-station-shell</link>
+		<link>./../../../fait-divers/vente-dhuile-a-moteur-frelatee-de-la-station-shell/index.html</link>
 					<comments>./../../../fait-divers/vente-dhuile-a-moteur-frelatee-de-la-station-shell/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -39,8 +39,10 @@
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=13</guid>
 
 					<description><![CDATA[<p>A.C, un jeune de 20 ans avait choisi comme métier de contrefaire l’huile à moteur...</p>
-<p>The post <a href="./../../../fait-divers/vente-dhuile-a-moteur-frelatee-de-la-station-shell/index.html">Fait Divers: Huile à moteur frelatée</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>A<strong><em>.C, un jeune de 20 ans avait choisi comme métier de contrefaire l’huile à moteur de la Station Shell pour les vendre. Après cette manigance sue par la direction de ladite Station-services, celle-ci a porté plainte contre lui et A.C fut piégé et capturé le 14 juillet dernier par la Brigade de Recherches du 3<sup>ème</sup> Arrondissement. Il a ainsi été mis sous mandat de dépôt le 18 juillet&nbsp; sur ordre du Procureur du TGI de la CII.</em></strong></p>
+<p>L’article <a rel="nofollow" href="./../../../fait-divers/vente-dhuile-a-moteur-frelatee-de-la-station-shell/index.html">Fait Divers: Huile à moteur frelatée</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A<strong><em>.C, un jeune de 20 ans avait choisi comme métier de contrefaire l’huile à moteur de la Station Shell pour les vendre. Après cette manigance sue par la direction de ladite Station-services, celle-ci a porté plainte contre lui et A.C fut piégé et capturé le 14 juillet dernier par la Brigade de Recherches du 3<sup>ème</sup> Arrondissement. Il a ainsi été mis sous mandat de dépôt le 18 juillet&nbsp; sur ordre du Procureur du TGI de la CII.</em></strong></p>
 
 
 
@@ -68,7 +70,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Vente d’huile à moteur frelatée de la Station Shell" data-page-url="{{ PAGE_URL }}" data-page-title="Vente d’huile à moteur frelatée de la Station Shell"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../fait-divers/vente-dhuile-a-moteur-frelatee-de-la-station-shell/index.html">Fait Divers: Huile à moteur frelatée</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../fait-divers/vente-dhuile-a-moteur-frelatee-de-la-station-shell/index.html">Fait Divers: Huile à moteur frelatée</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../fait-divers/vente-dhuile-a-moteur-frelatee-de-la-station-shell/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>

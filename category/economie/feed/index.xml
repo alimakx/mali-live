@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Economie - Mali Live</title>
+	<title>Archives des Economie - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>./../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
 	<lastBuildDate>Wed, 17 Aug 2022 10:23:15 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -22,14 +22,14 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Economie - Mali Live</title>
-	<link>./../../../index.html</link>
+	<title>Archives des Economie - Mali Live</title>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Importation, vente, usage du Chicha interdit</title>
-		<link>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=importation-vente-usage-du-chicha-interdit</link>
+		<link>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html</link>
 					<comments>./../../../economie/importation-vente-usage-du-chicha-interdit/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -39,8 +39,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1173</guid>
 
 					<description><![CDATA[<p>A travers un arrêté interministériel, la chicha est interdite au Mali. Le ministère de la...</p>
-<p>The post <a href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>A travers un arrêté interministériel, la chicha est interdite au Mali.</strong></p>
+<p>L’article <a rel="nofollow" href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>A travers un arrêté interministériel, la chicha est interdite au Mali.</strong></p>
 
 
 
@@ -72,7 +74,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Importation, vente, usage du Chicha interdit" data-page-url="{{ PAGE_URL }}" data-page-title="Importation, vente, usage du Chicha interdit"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/importation-vente-usage-du-chicha-interdit/index.html">Importation, vente, usage du Chicha interdit</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/importation-vente-usage-du-chicha-interdit/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -81,7 +85,7 @@
 			</item>
 		<item>
 		<title>Douanes : Une Représentation ouverte en GUINÉE</title>
-		<link>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mali-douanes-une-representation-ouverte-en-guinee</link>
+		<link>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html</link>
 					<comments>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -91,8 +95,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1062</guid>
 
 					<description><![CDATA[<p>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour...</p>
-<p>The post <a href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<h2>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour l’Administration des douanes pour sécuriser les recettes au profit du trésor public et fluidifier la chaîne logistique.</h2>
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2>Cette représentation est non seulement un symbole de rapprochement mais aussi un instrument technique pour l’Administration des douanes pour sécuriser les recettes au profit du trésor public et fluidifier la chaîne logistique.</h2>
 
 
 
@@ -210,7 +216,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Douanes : Une Représentation ouverte en GUINÉE" data-page-url="{{ PAGE_URL }}" data-page-title="Douanes : Une Représentation ouverte en GUINÉE"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/index.html">Douanes : Une Représentation ouverte en GUINÉE</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/mali-douanes-une-representation-ouverte-en-guinee/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -219,7 +227,7 @@
 			</item>
 		<item>
 		<title>Le Gouvernement paye sa dette de 85,5 milliards</title>
-		<link>./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mali-le-gouvernement-paye-sa-dette</link>
+		<link>./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html</link>
 					<comments>./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -229,8 +237,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1040</guid>
 
 					<description><![CDATA[<p>Au mois de mars dernier, le ministre malien de l’Économie et des Finances, Alousséni Sanou,...</p>
-<p>The post <a href="./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html">Le Gouvernement paye sa dette de 85,5 milliards</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-14 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html">Le Gouvernement paye sa dette de 85,5 milliards</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-14 wp-block-columns">
 <div class="wp-container-13 wp-block-column"></div>
 </div>
 
@@ -298,7 +308,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Le Gouvernement paye sa dette de 85,5 milliards" data-page-url="{{ PAGE_URL }}" data-page-title="Le Gouvernement paye sa dette de 85,5 milliards"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html">Le Gouvernement paye sa dette de 85,5 milliards</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/mali-le-gouvernement-paye-sa-dette/index.html">Le Gouvernement paye sa dette de 85,5 milliards</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/mali-le-gouvernement-paye-sa-dette/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -307,7 +319,7 @@
 			</item>
 		<item>
 		<title>La CEDEAO asphyxie les banques maliennes</title>
-		<link>./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale</link>
+		<link>./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html</link>
 					<comments>./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -318,8 +330,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=1018</guid>
 
 					<description><![CDATA[<p>La CEDEAO et l&#8217;UEMOA sont prises en flagrant délit par les autorités maliennes de la...</p>
-<p>The post <a href="./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html">La CEDEAO asphyxie les banques maliennes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-23 wp-block-columns">
+<p>L’article <a rel="nofollow" href="./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html">La CEDEAO asphyxie les banques maliennes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-23 wp-block-columns">
 <div class="wp-container-22 wp-block-column"></div>
 </div>
 
@@ -371,7 +385,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Donald Trump a refusé de répondre aux questions à New York" data-page-url="{{ PAGE_URL }}" data-page-title="Donald Trump a refusé de répondre aux questions à New York"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html">La CEDEAO asphyxie les banques maliennes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/index.html">La CEDEAO asphyxie les banques maliennes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/la-cedeao-asphyxie-les-banques-maliennes-le-mensonge-de-radio-france-internationale/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -380,7 +396,7 @@
 			</item>
 		<item>
 		<title>Vie chère : Le Gouvernement décide d&#8217;agir</title>
-		<link>./../../../economie/vie-chere-le-gouvernement-decide-dagir/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vie-chere-le-gouvernement-decide-dagir</link>
+		<link>./../../../economie/vie-chere-le-gouvernement-decide-dagir/index.html</link>
 					<comments>./../../../economie/vie-chere-le-gouvernement-decide-dagir/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -390,8 +406,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=989</guid>
 
 					<description><![CDATA[<p>Face à la détresse qu’une grande partie de la population, face à l’inflation des prix...</p>
-<p>The post <a href="./../../../economie/vie-chere-le-gouvernement-decide-dagir/index.html">Vie chère : Le Gouvernement décide d’agir</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Face à la détresse qu’une grande partie de la population, face à l’inflation des prix des produits et articles sur le marché, le gouvernement a (enfin) décidé de réagir. Un conseil des Ministres extraordinaire tenu le 07 Août passé, rappelle que les commerçants et opérateurs économiques maliens n’ont pas respecté ce qui avait été convenu avec le gouvernement pour faire baisser les prix sur le marché. La question est : pourquoi le gouvernement ne s’est pas rendu compte plus tôt de l’anormalité ?</p>
+<p>L’article <a rel="nofollow" href="./../../../economie/vie-chere-le-gouvernement-decide-dagir/index.html">Vie chère : Le Gouvernement décide d&rsquo;agir</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Face à la détresse qu’une grande partie de la population, face à l’inflation des prix des produits et articles sur le marché, le gouvernement a (enfin) décidé de réagir. Un conseil des Ministres extraordinaire tenu le 07 Août passé, rappelle que les commerçants et opérateurs économiques maliens n’ont pas respecté ce qui avait été convenu avec le gouvernement pour faire baisser les prix sur le marché. La question est : pourquoi le gouvernement ne s’est pas rendu compte plus tôt de l’anormalité ?</p>
 
 
 
@@ -459,7 +477,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Vie chère : Le Gouvernement décide d'agir" data-page-url="{{ PAGE_URL }}" data-page-title="Vie chère : Le Gouvernement décide d'agir"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/vie-chere-le-gouvernement-decide-dagir/index.html">Vie chère : Le Gouvernement décide d’agir</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/vie-chere-le-gouvernement-decide-dagir/index.html">Vie chère : Le Gouvernement décide d&rsquo;agir</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/vie-chere-le-gouvernement-decide-dagir/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -468,7 +488,7 @@
 			</item>
 		<item>
 		<title>Interdiction de l’orpaillage pendant l’hivernage</title>
-		<link>./../../../economie/interdiction-de-lorpaillage-pendant-lhivernage/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=interdiction-de-lorpaillage-pendant-lhivernage</link>
+		<link>./../../../economie/interdiction-de-lorpaillage-pendant-lhivernage/index.html</link>
 					<comments>./../../../economie/interdiction-de-lorpaillage-pendant-lhivernage/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -478,8 +498,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=851</guid>
 
 					<description><![CDATA[<p>Le ministère des mines maintient sa décision jusqu’au 30 septembre prochain Alors que l’hivernage bat...</p>
-<p>The post <a href="./../../../economie/interdiction-de-lorpaillage-pendant-lhivernage/index.html">Interdiction de l’orpaillage pendant l’hivernage</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<h2>Le ministère des mines maintient sa décision jusqu’au 30 septembre prochain</h2>
+<p>L’article <a rel="nofollow" href="./../../../economie/interdiction-de-lorpaillage-pendant-lhivernage/index.html">Interdiction de l’orpaillage pendant l’hivernage</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2>Le ministère des mines maintient sa décision jusqu’au 30 septembre prochain</h2>
 
 
 
@@ -511,7 +533,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Interdiction de l’orpaillage pendant l’hivernage" data-page-url="{{ PAGE_URL }}" data-page-title="Interdiction de l’orpaillage pendant l’hivernage"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/interdiction-de-lorpaillage-pendant-lhivernage/index.html">Interdiction de l’orpaillage pendant l’hivernage</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/interdiction-de-lorpaillage-pendant-lhivernage/index.html">Interdiction de l’orpaillage pendant l’hivernage</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/interdiction-de-lorpaillage-pendant-lhivernage/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -520,7 +544,7 @@
 			</item>
 		<item>
 		<title>Coton: L’offre la moins chère du Continent</title>
-		<link>./../../../economie/coton-malien-loffre-la-moins-chere-du-continent/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=coton-malien-loffre-la-moins-chere-du-continent</link>
+		<link>./../../../economie/coton-malien-loffre-la-moins-chere-du-continent/index.html</link>
 					<comments>./../../../economie/coton-malien-loffre-la-moins-chere-du-continent/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -530,8 +554,10 @@
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=23</guid>
 
 					<description><![CDATA[<p>Alors que le gouvernement ivoirien vient de fixer à 𝟑𝟏𝟎𝐅𝐂𝐅𝐀 son kilo, on peut noter...</p>
-<p>The post <a href="./../../../economie/coton-malien-loffre-la-moins-chere-du-continent/index.html">Coton: L’offre la moins chère du Continent</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>Alors que le gouvernement ivoirien vient de fixer à 𝟑𝟏𝟎𝐅𝐂𝐅𝐀 son kilo, on peut noter que Bamako est à moins de 300 CFA. Une donne qui pourrait bien faciliter le pays à conserver sa première place si convoitée dans la sous-région.</strong></p>
+<p>L’article <a rel="nofollow" href="./../../../economie/coton-malien-loffre-la-moins-chere-du-continent/index.html">Coton: L’offre la moins chère du Continent</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Alors que le gouvernement ivoirien vient de fixer à 𝟑𝟏𝟎𝐅𝐂𝐅𝐀 son kilo, on peut noter que Bamako est à moins de 300 CFA. Une donne qui pourrait bien faciliter le pays à conserver sa première place si convoitée dans la sous-région.</strong></p>
 
 
 
@@ -563,7 +589,9 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Coton Malien: L’offre la moins chère du Continent" data-page-url="{{ PAGE_URL }}" data-page-title="Coton Malien: L’offre la moins chère du Continent"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../economie/coton-malien-loffre-la-moins-chere-du-continent/index.html">Coton: L’offre la moins chère du Continent</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../economie/coton-malien-loffre-la-moins-chere-du-continent/index.html">Coton: L’offre la moins chère du Continent</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../economie/coton-malien-loffre-la-moins-chere-du-continent/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>

@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Minusma - Mali Live</title>
+	<title>Archives des Minusma - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link>./../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Wed, 17 Aug 2022 09:33:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Aug 2022 10:04:51 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,14 +22,55 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Minusma - Mali Live</title>
-	<link>./../../../index.html</link>
+	<title>Archives des Minusma - Mali Live</title>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le Mali accuse la France d’aide aux terroristes</title>
+		<link>./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html</link>
+					<comments>./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Mali Live]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 09:43:26 +0000</pubDate>
+				<category><![CDATA[Défense]]></category>
+		<category><![CDATA[Minusma]]></category>
+		<category><![CDATA[Terrorisme au Sahel]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1178</guid>
+
+					<description><![CDATA[<p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU,...</p>
+<p>L’article <a rel="nofollow" href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU, le ministère des Affaires étrangères du Mali accuse la France de violations répétitives et fréquentes de l’espace aérien malien par les forces françaises. Dans la lettre signé du ministre des Affaires étrangères Abdoulaye Diop, il assure que le gouvernement dispose de plusieurs éléments de preuve que ces violations flagrantes de l’espace aérien malien ont servi à la France pour collecter des renseignements au profit des groupes terroristes opérant dans le Sahel et pour leur larguer des armes et munitions. Le gouvernement rappelle que c’est en raison de suspicion de manœuvres de déstabilisation de la France que le Mali s’est fermement opposé à la demande soutien aérien de la France au profit de la MINUSMA, afin que « France ne se serve pas de la mission onusienne comme prétexte pour mener des opérations subversives visant à fragiliser d’avantage le Mali et la région du Sahel ». En outre, le Mali demande à ce que la France cesse immédiatement ses actes d’agression contre le Mali, en cas de persistance, le Mali dit se réserver le droit de faire usage de la légitime défense.</p>
+
+
+
+<p>Source: JM</p>
+
+
+
+<div class="wp-container-3 wp-block-columns">
+<div class="wp-container-2 wp-block-column"></div>
+</div>
+
+
+
+<div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Le Mali accuse la France d’aide aux terroristes" data-page-url="{{ PAGE_URL }}" data-page-title="Le Mali accuse la France d’aide aux terroristes"></div>
+<script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>L&#8217;Allemagne demande l&#8217;autorisation de survole au Mali</title>
-		<link>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali</link>
+		<link>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html</link>
 					<comments>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -40,9 +81,11 @@
 		<guid isPermaLink="false">./../../../index.html?p=1079</guid>
 
 					<description><![CDATA[<p>Pour des impératifs de sécurité nationale selon Abdoulaye Diop Ministre malien des Affaires étrangères Le...</p>
-<p>The post <a href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L’Allemagne demande l’autorisation de survole au Mali</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div class="wp-container-4 wp-block-columns">
-<div class="wp-container-3 wp-block-column"></div>
+<p>L’article <a rel="nofollow" href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L&rsquo;Allemagne demande l&rsquo;autorisation de survole au Mali</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-7 wp-block-columns">
+<div class="wp-container-6 wp-block-column"></div>
 </div>
 
 
@@ -91,15 +134,17 @@
 
 
 
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-5 wp-block-column"></div>
+<div class="wp-container-9 wp-block-columns">
+<div class="wp-container-8 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="L'Allemagne doit demander autorisation de survol au Mali" data-page-url="{{ PAGE_URL }}" data-page-title="L'Allemagne doit demander autorisation de survol au Mali"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L’Allemagne demande l’autorisation de survole au Mali</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/index.html">L&rsquo;Allemagne demande l&rsquo;autorisation de survole au Mali</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/lallemagne-doit-passer-par-la-minusma-pour-lautorisation-de-survol-au-mali/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -108,7 +153,7 @@
 			</item>
 		<item>
 		<title>L’Allemagne suspend ses opérations militaires</title>
-		<link>./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol</link>
+		<link>./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html</link>
 					<comments>./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -119,13 +164,15 @@
 		<guid isPermaLink="false">./../../../index.html?p=1043</guid>
 
 					<description><![CDATA[<p>L’Allemagne a annoncé vendredi suspendre “jusqu’à nouvel ordre” la majeure partie de ses opérations militaires...</p>
-<p>The post <a href="./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html">L’Allemagne suspend ses opérations militaires</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p></p>
+<p>L’article <a rel="nofollow" href="./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html">L’Allemagne suspend ses opérations militaires</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p></p>
 
 
 
-<div class="wp-container-11 wp-block-columns">
-<div class="wp-container-10 wp-block-column"></div>
+<div class="wp-container-14 wp-block-columns">
+<div class="wp-container-13 wp-block-column"></div>
 </div>
 
 
@@ -170,7 +217,7 @@
 
 
 
-<div class="wp-container-12 wp-block-columns"></div>
+<div class="wp-container-15 wp-block-columns"></div>
 
 
 
@@ -178,15 +225,17 @@
 
 
 
-<div class="wp-container-14 wp-block-columns">
-<div class="wp-container-13 wp-block-column"></div>
+<div class="wp-container-17 wp-block-columns">
+<div class="wp-container-16 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="L'Allemagne suspend ses opérations militaires" data-page-url="{{ PAGE_URL }}" data-page-title="L'Allemagne suspend ses opérations militaires"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html">L’Allemagne suspend ses opérations militaires</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/index.html">L’Allemagne suspend ses opérations militaires</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/mali-lallemagne-suspend-ses-operations-militaires-apres-un-nouveau-refus-de-survol/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -195,7 +244,7 @@
 			</item>
 		<item>
 		<title>Départ de la Minusma exigé par Yerewolo</title>
-		<link>./../../../politique/le-depart-de-la-minusma-exige-par-yerewolo/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-depart-de-la-minusma-exige-par-yerewolo</link>
+		<link>./../../../politique/le-depart-de-la-minusma-exige-par-yerewolo/index.html</link>
 					<comments>./../../../politique/le-depart-de-la-minusma-exige-par-yerewolo/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -206,8 +255,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=979</guid>
 
 					<description><![CDATA[<p>Le Mouvement nationaliste Yèrèwolo Débout sur les Remparts exige le départ des forces de la...</p>
-<p>The post <a href="./../../../politique/le-depart-de-la-minusma-exige-par-yerewolo/index.html">Départ de la Minusma exigé par Yerewolo</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>Le Mouvement nationaliste Yèrèwolo Débout sur les Remparts exige le départ des forces de la MINUSMA du Mali avant le 22 septembre prochain. Coiffés de bonnets bleus, les leaders du mouvement ne veulent des casques bleus au Mali. Ils ont organisé, ce vendredi 5 août, un meeting populaire au Palais de la culture.</strong></p>
+<p>L’article <a rel="nofollow" href="./../../../politique/le-depart-de-la-minusma-exige-par-yerewolo/index.html">Départ de la Minusma exigé par Yerewolo</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Le Mouvement nationaliste Yèrèwolo Débout sur les Remparts exige le départ des forces de la MINUSMA du Mali avant le 22 septembre prochain. Coiffés de bonnets bleus, les leaders du mouvement ne veulent des casques bleus au Mali. Ils ont organisé, ce vendredi 5 août, un meeting populaire au Palais de la culture.</strong></p>
 
 
 
@@ -223,8 +274,8 @@
 
 
 
-<div class="wp-container-18 wp-block-columns">
-<div class="wp-container-17 wp-block-column"></div>
+<div class="wp-container-21 wp-block-columns">
+<div class="wp-container-20 wp-block-column"></div>
 </div>
 
 
@@ -233,15 +284,17 @@
 
 
 
-<div class="wp-container-20 wp-block-columns">
-<div class="wp-container-19 wp-block-column"></div>
+<div class="wp-container-23 wp-block-columns">
+<div class="wp-container-22 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="RDC : «Le départ de la Minusma exigé par Yerewolo Debout sur les Remparts»" data-page-url="{{ PAGE_URL }}" data-page-title="Le départ de la Minusma exigé par Yerewolo Debout sur les Remparts"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/le-depart-de-la-minusma-exige-par-yerewolo/index.html">Départ de la Minusma exigé par Yerewolo</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/le-depart-de-la-minusma-exige-par-yerewolo/index.html">Départ de la Minusma exigé par Yerewolo</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/le-depart-de-la-minusma-exige-par-yerewolo/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -250,7 +303,7 @@
 			</item>
 		<item>
 		<title>Mali: Séance de travail avec la Minusma</title>
-		<link>./../../../politique/gouvernement-du-mali-seance-de-travail-avec-la-minusma/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gouvernement-du-mali-seance-de-travail-avec-la-minusma</link>
+		<link>./../../../politique/gouvernement-du-mali-seance-de-travail-avec-la-minusma/index.html</link>
 					<comments>./../../../politique/gouvernement-du-mali-seance-de-travail-avec-la-minusma/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Mali Live]]></dc:creator>
@@ -260,8 +313,10 @@
 		<guid isPermaLink="false">./../../../index.html?p=838</guid>
 
 					<description><![CDATA[<p>Le Ministre des Affaires étrangères et de la Coopération internationale, Son Excellence Monsieur Abdoulaye DIOP...</p>
-<p>The post <a href="./../../../politique/gouvernement-du-mali-seance-de-travail-avec-la-minusma/index.html">Mali: Séance de travail avec la Minusma</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Le Ministre des Affaires étrangères et de la Coopération internationale, Son Excellence Monsieur Abdoulaye DIOP accompagné de plusieurs autres membres du Gouvernement, a présidé, ce jour, 1er août 2022, une séance de travail avec une équipe de la MINUSMA conduite par le Représentant spécial du Secrétaire général des Nations Unies, afin de dégager un plan optimal permettant de faciliter la coordination et la règlementation de la rotation des contingents, en tenant compte des impératifs de souveraineté et de sécurité nationale exprimés par le Gouvernement du Mali.</p>
+<p>L’article <a rel="nofollow" href="./../../../politique/gouvernement-du-mali-seance-de-travail-avec-la-minusma/index.html">Mali: Séance de travail avec la Minusma</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Le Ministre des Affaires étrangères et de la Coopération internationale, Son Excellence Monsieur Abdoulaye DIOP accompagné de plusieurs autres membres du Gouvernement, a présidé, ce jour, 1er août 2022, une séance de travail avec une équipe de la MINUSMA conduite par le Représentant spécial du Secrétaire général des Nations Unies, afin de dégager un plan optimal permettant de faciliter la coordination et la règlementation de la rotation des contingents, en tenant compte des impératifs de souveraineté et de sécurité nationale exprimés par le Gouvernement du Mali.</p>
 
 
 
@@ -277,15 +332,17 @@
 
 
 
-<div class="wp-container-23 wp-block-columns">
-<div class="wp-container-22 wp-block-column"></div>
+<div class="wp-container-26 wp-block-columns">
+<div class="wp-container-25 wp-block-column"></div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Gouvernement du Mali: Séance de travail avec la Minusma" data-page-url="{{ PAGE_URL }}" data-page-title="Gouvernement du Mali: Séance de travail avec la Minusma"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/gouvernement-du-mali-seance-de-travail-avec-la-minusma/index.html">Mali: Séance de travail avec la Minusma</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+<p>L’article <a rel="nofollow" href="./../../../politique/gouvernement-du-mali-seance-de-travail-avec-la-minusma/index.html">Mali: Séance de travail avec la Minusma</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
+]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/gouvernement-du-mali-seance-de-travail-avec-la-minusma/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
