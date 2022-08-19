@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Archives des Terrorisme au Sahel - Mali Live</title>
+	<title>Terrorisme au Sahel - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Thu, 18 Aug 2022 10:04:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Aug 2022 10:42:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Archives des Terrorisme au Sahel - Mali Live</title>
-	<link>./../index.html</link>
+	<title>Terrorisme au Sahel - Mali Live</title>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -40,10 +40,12 @@
 		<guid isPermaLink="false">./../../../index.html?p=1178</guid>
 
 					<description><![CDATA[<p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU,...</p>
-<p>L’article <a rel="nofollow" href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU, le ministère des Affaires étrangères du Mali accuse la France de violations répétitives et fréquentes de l’espace aérien malien par les forces françaises. Dans la lettre signé du ministre des Affaires étrangères Abdoulaye Diop, il assure que le gouvernement dispose de plusieurs éléments de preuve que ces violations flagrantes de l’espace aérien malien ont servi à la France pour collecter des renseignements au profit des groupes terroristes opérant dans le Sahel et pour leur larguer des armes et munitions. Le gouvernement rappelle que c’est en raison de suspicion de manœuvres de déstabilisation de la France que le Mali s’est fermement opposé à la demande soutien aérien de la France au profit de la MINUSMA, afin que « France ne se serve pas de la mission onusienne comme prétexte pour mener des opérations subversives visant à fragiliser d’avantage le Mali et la région du Sahel ». En outre, le Mali demande à ce que la France cesse immédiatement ses actes d’agression contre le Mali, en cas de persistance, le Mali dit se réserver le droit de faire usage de la légitime défense.</p>
+<p>The post <a href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2><p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU, le ministère des Affaires étrangères du Mali accuse la France de violations répétitives et fréquentes de l’espace aérien malien par les forces françaises. </p></h2>
+
+
+
+<p>Dans la lettre signé du ministre des Affaires étrangères Abdoulaye Diop, il assure que le gouvernement dispose de plusieurs éléments de preuve que ces violations flagrantes de l’espace aérien malien ont servi à la France pour collecter des renseignements au profit des groupes terroristes opérant dans le Sahel et pour leur larguer des armes et munitions. Le gouvernement rappelle que c’est en raison de suspicion de manœuvres de déstabilisation de la France que le Mali s’est fermement opposé à la demande soutien aérien de la France au profit de la MINUSMA, afin que « France ne se serve pas de la mission onusienne comme prétexte pour mener des opérations subversives visant à fragiliser d’avantage le Mali et la région du Sahel ». En outre, le Mali demande à ce que la France cesse immédiatement ses actes d’agression contre le Mali, en cas de persistance, le Mali dit se réserver le droit de faire usage de la légitime défense.</p>
 
 
 
@@ -59,9 +61,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Le Mali accuse la France d’aide aux terroristes" data-page-url="{{ PAGE_URL }}" data-page-title="Le Mali accuse la France d’aide aux terroristes"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -80,10 +80,8 @@
 		<guid isPermaLink="false">./../../../index.html?p=1167</guid>
 
 					<description><![CDATA[<p>L’état-major français des armées a annoncé, hier, que le dernier détachement de la force Barkhane...</p>
-<p>L’article <a rel="nofollow" href="./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html">Mali : Barkhane quitte définitivement le pays</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>L’état-major français des armées a annoncé, hier, que le dernier détachement de la force Barkhane a quitté le Mali ce lundi 15 août 2022. Selon l’Élysée, c’est le 17 février dernier, constatant que les conditions politiques et opérationnelles n’étaient plus réunies pour rester engagée au Mali que la France a décidé, en concertation avec ses partenaires africains et européens, de ré-articuler<strong> le dispositif de l’opération Barkhane en dehors du territoire malien.</strong></p>
+<p>The post <a href="./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html">Mali : Barkhane quitte définitivement le pays</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>L’état-major français des armées a annoncé, hier, que le dernier détachement de la force Barkhane a quitté le Mali ce lundi 15 août 2022. Selon l’Élysée, c’est le 17 février dernier, constatant que les conditions politiques et opérationnelles n’étaient plus réunies pour rester engagée au Mali que la France a décidé, en concertation avec ses partenaires africains et européens, de ré-articuler<strong> le dispositif de l’opération Barkhane en dehors du territoire malien.</strong></p>
 
 
 
@@ -125,9 +123,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Mali : Barkhane quitte définitivement le pays" data-page-url="{{ PAGE_URL }}" data-page-title="Mali : Barkhane quitte définitivement le pays"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html">Mali : Barkhane quitte définitivement le pays</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../armee/mali-barkhane-quitte-definitivement-le-pays/index.html">Mali : Barkhane quitte définitivement le pays</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../armee/mali-barkhane-quitte-definitivement-le-pays/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -147,10 +143,8 @@
 		<guid isPermaLink="false">./../../../index.html?p=1075</guid>
 
 					<description><![CDATA[<p>Après plusieurs nouvelles attaques terroristes au Mali qui ont fait plus de 40 morts, la...</p>
-<p>L’article <a rel="nofollow" href="./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html">Moscou affirme son soutien contre les terrorisme</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<h2>Après plusieurs nouvelles attaques terroristes au Mali qui ont fait plus de 40 morts, la Russie rappelle que selon les autorités du pays les extrémistes bénéficient d’une assistance étrangère et promet d’aider Bamako à les combattre.</h2>
+<p>The post <a href="./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html">Moscou affirme son soutien contre les terrorisme</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>Après plusieurs nouvelles attaques terroristes au Mali qui ont fait plus de 40 morts, la Russie rappelle que selon les autorités du pays les extrémistes bénéficient d’une assistance étrangère et promet d’aider Bamako à les combattre.</h2>
 
 
 
@@ -188,9 +182,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Moscou réaffirme son intention soutient au Mali" data-page-url="{{ PAGE_URL }}" data-page-title="Moscou réaffirme son intention soutient au Mali"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html">Moscou affirme son soutien contre les terrorisme</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/index.html">Moscou affirme son soutien contre les terrorisme</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/moscou-reaffirme-son-intention-daider-le-mali-a-lutter-contre-les-terroristes/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -209,10 +201,8 @@
 		<guid isPermaLink="false">./../../../index.html?p=976</guid>
 
 					<description><![CDATA[<p>Ce dimanche 07 août 2022 vers 15h00, les unités FAMa de Tessit ont réagi vigoureusement...</p>
-<p>L’article <a rel="nofollow" href="./../../../insecurite/tessit-une-attaque-des-groupes-armees-terroristes/index.html">Tessit: Attaque des groupes armées terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-20 wp-block-columns">
+<p>The post <a href="./../../../insecurite/tessit-une-attaque-des-groupes-armees-terroristes/index.html">Tessit: Attaque des groupes armées terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div class="wp-container-20 wp-block-columns">
 <div class="wp-container-19 wp-block-column"></div>
 </div>
 
@@ -256,9 +246,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="RDC : «Une attaque des groupes armées terroristes»" data-page-url="{{ PAGE_URL }}" data-page-title="Une attaque des groupes armées terroristes"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../insecurite/tessit-une-attaque-des-groupes-armees-terroristes/index.html">Tessit: Attaque des groupes armées terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../insecurite/tessit-une-attaque-des-groupes-armees-terroristes/index.html">Tessit: Attaque des groupes armées terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../insecurite/tessit-une-attaque-des-groupes-armees-terroristes/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -277,10 +265,8 @@
 		<guid isPermaLink="false">./../../../index.html?p=927</guid>
 
 					<description><![CDATA[<p>Source: Forces Armees Maliennes</p>
-<p>L’article <a rel="nofollow" href="./../../../insecurite/les-famas-neutralisent-des-terroristes/index.html">Les FAMAS neutralisent des terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-container-29 wp-block-columns">
+<p>The post <a href="./../../../insecurite/les-famas-neutralisent-des-terroristes/index.html">Les FAMAS neutralisent des terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div class="wp-container-29 wp-block-columns">
 <div class="wp-container-28 wp-block-column"></div>
 </div>
 
@@ -316,9 +302,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="RDC : «Les FAMAS neutralisent des terroristes»" data-page-url="{{ PAGE_URL }}" data-page-title="Les FAMAS neutralisent des terroristes"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../insecurite/les-famas-neutralisent-des-terroristes/index.html">Les FAMAS neutralisent des terroristes</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../insecurite/les-famas-neutralisent-des-terroristes/index.html">Les FAMAS neutralisent des terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../insecurite/les-famas-neutralisent-des-terroristes/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -338,10 +322,8 @@
 		<guid isPermaLink="false">./../../../index.html?p=845</guid>
 
 					<description><![CDATA[<p>Localisation et destruction des refuges logistiques et des rescapés dans les forêts de Diabali Koura,...</p>
-<p>L’article <a rel="nofollow" href="./../../../insecurite/communique-de-letat-major-general-des-armees/index.html">Communiqué de l’État-major Général des Armées</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<h2>Localisation et destruction des refuges logistiques et des rescapés dans les forêts de Diabali Koura, Koromambougou et Filadionbougou.</h2>
+<p>The post <a href="./../../../insecurite/communique-de-letat-major-general-des-armees/index.html">Communiqué de l’État-major Général des Armées</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>Localisation et destruction des refuges logistiques et des rescapés dans les forêts de Diabali Koura, Koromambougou et Filadionbougou.</h2>
 
 
 
@@ -385,9 +367,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Communiqué de l’État-major Général des Armées" data-page-url="{{ PAGE_URL }}" data-page-title="Communiqué de l’État-major Général des Armées"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../insecurite/communique-de-letat-major-general-des-armees/index.html">Communiqué de l’État-major Général des Armées</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../insecurite/communique-de-letat-major-general-des-armees/index.html">Communiqué de l’État-major Général des Armées</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../insecurite/communique-de-letat-major-general-des-armees/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -406,10 +386,8 @@
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=20</guid>
 
 					<description><![CDATA[<p>Bamako est en état d’alerte depuis plusieurs jours pour faire face à d’éventuelles attaques terroristes....</p>
-<p>L’article <a rel="nofollow" href="./../../../insecurite/bamako-la-menace-terroriste-pese-sur-le-quotidien/index.html">Bamako: La menace terroriste au quotidien</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Bamako est en état d’alerte depuis plusieurs jours pour faire face à d’éventuelles attaques terroristes. L’offensive contre le camp de Kati a semé la peur.</strong></p>
+<p>The post <a href="./../../../insecurite/bamako-la-menace-terroriste-pese-sur-le-quotidien/index.html">Bamako: La menace terroriste au quotidien</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p><strong>Bamako est en état d’alerte depuis plusieurs jours pour faire face à d’éventuelles attaques terroristes. L’offensive contre le camp de Kati a semé la peur.</strong></p>
 
 
 
@@ -483,9 +461,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Bamako: La menace terroriste pèse sur le quotidien" data-page-url="{{ PAGE_URL }}" data-page-title="Bamako: La menace terroriste pèse sur le quotidien"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../insecurite/bamako-la-menace-terroriste-pese-sur-le-quotidien/index.html">Bamako: La menace terroriste au quotidien</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../insecurite/bamako-la-menace-terroriste-pese-sur-le-quotidien/index.html">Bamako: La menace terroriste au quotidien</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../insecurite/bamako-la-menace-terroriste-pese-sur-le-quotidien/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>

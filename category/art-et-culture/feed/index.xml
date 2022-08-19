@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Archives des Art et Culture - Mali Live</title>
+	<title>Art et Culture - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
 	<lastBuildDate>Tue, 16 Aug 2022 18:29:32 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Archives des Art et Culture - Mali Live</title>
-	<link>./../index.html</link>
+	<title>Art et Culture - Mali Live</title>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -39,10 +39,8 @@
 		<guid isPermaLink="false">./../../../index.html?p=985</guid>
 
 					<description><![CDATA[<p>Kangaba (en langue malinké&#160;:&#160;Ka’ba) est située au cœur du&#160;Mandé, région historique du Mali, berceau de...</p>
-<p>L’article <a rel="nofollow" href="./../../../art-et-culture/culture-la-case-sacree-de-kangaba/index.html">Culture : La case sacrée de Kangaba</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong><em>Kangaba (en langue malinké&nbsp;:&nbsp;</em></strong><a href="https://fr.wikipedia.org/wiki/Ka%27ba"><strong><em>Ka’ba</em></strong></a><strong><em>) est située au cœur du&nbsp;</em></strong><a href="https://fr.wikipedia.org/wiki/Mand%C3%A9"><strong><em>Mandé</em></strong></a><strong><em>, région historique du Mali, berceau de l’</em></strong><a href="https://fr.wikipedia.org/wiki/Empire_du_Mali"><strong><em>empire du Mali</em></strong></a><strong><em>. Elle est distante de 50&nbsp;km&nbsp;de la frontière&nbsp;</em></strong><a href="https://fr.wikipedia.org/wiki/Guin%C3%A9e"><strong><em>guinéenne</em></strong></a><strong><em>.</em></strong><strong><em> Le Kamablon est la case sacrée de Kangaba dans la&nbsp;</em></strong><a href="https://fr.wikipedia.org/wiki/R%C3%A9gion_de_Koulikoro"><strong><em>région de Koulikoro</em></strong></a><strong><em>. Il a été construit en 1653.</em></strong></p>
+<p>The post <a href="./../../../art-et-culture/culture-la-case-sacree-de-kangaba/index.html">Culture : La case sacrée de Kangaba</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p><strong><em>Kangaba (en langue malinké&nbsp;:&nbsp;</em></strong><a href="https://fr.wikipedia.org/wiki/Ka%27ba"><strong><em>Ka’ba</em></strong></a><strong><em>) est située au cœur du&nbsp;</em></strong><a href="https://fr.wikipedia.org/wiki/Mand%C3%A9"><strong><em>Mandé</em></strong></a><strong><em>, région historique du Mali, berceau de l’</em></strong><a href="https://fr.wikipedia.org/wiki/Empire_du_Mali"><strong><em>empire du Mali</em></strong></a><strong><em>. Elle est distante de 50&nbsp;km&nbsp;de la frontière&nbsp;</em></strong><a href="https://fr.wikipedia.org/wiki/Guin%C3%A9e"><strong><em>guinéenne</em></strong></a><strong><em>.</em></strong><strong><em> Le Kamablon est la case sacrée de Kangaba dans la&nbsp;</em></strong><a href="https://fr.wikipedia.org/wiki/R%C3%A9gion_de_Koulikoro"><strong><em>région de Koulikoro</em></strong></a><strong><em>. Il a été construit en 1653.</em></strong></p>
 
 
 
@@ -84,9 +82,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Culture : La case sacrée de Kangaba" data-page-url="{{ PAGE_URL }}" data-page-title="Culture : La case sacrée de Kangaba"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../art-et-culture/culture-la-case-sacree-de-kangaba/index.html">Culture : La case sacrée de Kangaba</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../art-et-culture/culture-la-case-sacree-de-kangaba/index.html">Culture : La case sacrée de Kangaba</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../art-et-culture/culture-la-case-sacree-de-kangaba/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>

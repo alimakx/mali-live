@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Archives des Football - Mali Live</title>
+	<title>Football - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
 	<lastBuildDate>Wed, 17 Aug 2022 09:36:10 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Archives des Football - Mali Live</title>
-	<link>./../index.html</link>
+	<title>Football - Mali Live</title>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -39,10 +39,8 @@
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=29</guid>
 
 					<description><![CDATA[<p>Après des manifestations meurtrières contre la présence de l&#8217;ONU dans le Nord Kivu, les Etats-Unis...</p>
-<p>L’article <a rel="nofollow" href="./../../../politique/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html">Les USA demandent de protéger la MONUSCO</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Après des manifestations meurtrières contre la présence de l&rsquo;ONU dans le Nord Kivu, les Etats-Unis ont demandé à la République démocratique du Congo de protéger la Monusco. En début de semaine, des manifestants ont pris d&rsquo;assaut les installations de la mission onusienne pour demander le départ des troupes, présentes depuis 1999 dans le pays. Au moins 19 victimes sont à déplorer, dont trois casques bleus.</strong></p>
+<p>The post <a href="./../../../politique/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html">Les USA demandent de protéger la MONUSCO</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p><strong>Après des manifestations meurtrières contre la présence de l&rsquo;ONU dans le Nord Kivu, les Etats-Unis ont demandé à la République démocratique du Congo de protéger la Monusco. En début de semaine, des manifestants ont pris d&rsquo;assaut les installations de la mission onusienne pour demander le départ des troupes, présentes depuis 1999 dans le pays. Au moins 19 victimes sont à déplorer, dont trois casques bleus.</strong></p>
 
 
 
@@ -72,9 +70,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Les USA demandent à la RDC de protéger la MONUSCO" data-page-url="{{ PAGE_URL }}" data-page-title="Les USA demandent à la RDC de protéger la MONUSCO"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../politique/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html">Les USA demandent de protéger la MONUSCO</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/index.html">Les USA demandent de protéger la MONUSCO</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/les-usa-demandent-a-la-rdc-de-proteger-la-monusco/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -93,10 +89,8 @@
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=26</guid>
 
 					<description><![CDATA[<p>Les journées de qualifications pour la Coupe d&#8217;Afrique des Nations (CAN) prévues en septembre ont...</p>
-<p>L’article <a rel="nofollow" href="./../../../sports/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html">Les matches de qualifications de la CAN reporter</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Les journées de qualifications pour la Coupe d&rsquo;Afrique des Nations (CAN) prévues en septembre ont été repoussées au mois de mars 2023.</strong></p>
+<p>The post <a href="./../../../sports/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html">Les matches de qualifications de la CAN reporter</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p><strong>Les journées de qualifications pour la Coupe d&rsquo;Afrique des Nations (CAN) prévues en septembre ont été repoussées au mois de mars 2023.</strong></p>
 
 
 
@@ -146,9 +140,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Les matches de qualifications CAN 2024 repoussés à mars 2023" data-page-url="{{ PAGE_URL }}" data-page-title="Les matches de qualifications CAN 2024 repoussés à mars 2023"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../sports/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html">Les matches de qualifications de la CAN reporter</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../sports/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/index.html">Les matches de qualifications de la CAN reporter</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../sports/can-2024-les-matches-de-qualifications-repousses-a-mars-2023/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>

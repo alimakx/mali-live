@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Archives des Société - Mali Live</title>
+	<title>Société - Mali Live</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
 	<lastBuildDate>Wed, 17 Aug 2022 09:45:08 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/07/cropped-Untitled-design-180x180-1-150x150.png</url>
-	<title>Archives des Société - Mali Live</title>
-	<link>./../index.html</link>
+	<title>Société - Mali Live</title>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -38,10 +38,8 @@
 		<category><![CDATA[Société]]></category>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=27</guid>
 
-					<description><![CDATA[<p>L’article <a rel="nofollow" href="./../../../politique/discours-du-dr-choguel-kokalla-maiga/index.html">Dr. Choguel MAIGA recoit Jean-Pierre LACROIX</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img src="./../../../wp-content/uploads/2022/07/choguel1-672x1024.jpg" alt="" class="wp-image-633" width="841" height="1282" srcset="./../../../wp-content/uploads/2022/07/choguel1-672x1024.jpg 672w, ./../../../wp-content/uploads/2022/07/choguel1-197x300.jpg 197w, ./../../../wp-content/uploads/2022/07/choguel1-768x1170.jpg 768w, ./../../../wp-content/uploads/2022/07/choguel1.jpg 840w" sizes="(max-width: 841px) 100vw, 841px" /></figure>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-image size-large is-resized"><img src="./../../../wp-content/uploads/2022/07/choguel1-672x1024.jpg" alt="" class="wp-image-633" width="841" height="1282" srcset="./../../../wp-content/uploads/2022/07/choguel1-672x1024.jpg 672w, ./../../../wp-content/uploads/2022/07/choguel1-197x300.jpg 197w, ./../../../wp-content/uploads/2022/07/choguel1-768x1170.jpg 768w, ./../../../wp-content/uploads/2022/07/choguel1.jpg 840w" sizes="(max-width: 841px) 100vw, 841px" /></figure>
 
 
 
@@ -65,9 +63,7 @@
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Discours du Dr. Choguel Kokalla MAIGA" data-page-url="{{ PAGE_URL }}" data-page-title="Discours du Dr. Choguel Kokalla MAIGA"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
-<p>L’article <a rel="nofollow" href="./../../../politique/discours-du-dr-choguel-kokalla-maiga/index.html">Dr. Choguel MAIGA recoit Jean-Pierre LACROIX</a> est apparu en premier sur <a rel="nofollow" href="./../../../index.html">Mali Live</a>.</p>
-]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../politique/discours-du-dr-choguel-kokalla-maiga/index.html">Dr. Choguel MAIGA recoit Jean-Pierre LACROIX</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../politique/discours-du-dr-choguel-kokalla-maiga/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
