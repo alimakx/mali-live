@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Fri, 19 Aug 2022 10:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Aug 2022 09:15:37 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -41,7 +41,11 @@
 
 					<description><![CDATA[<p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU,...</p>
 <p>The post <a href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<h2><p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU, le ministère des Affaires étrangères du Mali accuse la France de violations répétitives et fréquentes de l’espace aérien malien par les forces françaises. </p></h2>
+										<content:encoded><![CDATA[<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><h2><p>Dans une lettre datée du 15 août et adressée au conseil de sécurité de l’ONU, le ministère des Affaires étrangères du Mali accuse la France de violations répétitives et fréquentes de l’espace aérien malien par les forces françaises. </p></h2></p>
 
 
 
@@ -53,15 +57,21 @@
 
 
 
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-2 wp-block-column"></div>
+<div class="wp-container-2 wp-block-columns">
+<div class="wp-container-1 wp-block-column">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+</div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Le Mali accuse la France d’aide aux terroristes" data-page-url="{{ PAGE_URL }}" data-page-title="Le Mali accuse la France d’aide aux terroristes"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/><p>The post <a href="./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/index.html">Le Mali accuse la France d’aide aux terroristes</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../defense/le-mali-accuse-la-france-daide-aux-terroristes/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>

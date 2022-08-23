@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Site d&#039;actualité et d&#039;informations sur le Mali</description>
-	<lastBuildDate>Fri, 19 Aug 2022 10:34:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Aug 2022 09:15:18 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,7 +40,11 @@
 
 					<description><![CDATA[<p>Fin de suspens pour les candidats au Baccalauréat, session de juillet 2022. Sur un total...</p>
 <p>The post <a href="./../../../education/baccalaureat-2022-un-taux-dadmission-de-2038/index.html">Baccalauréat 2022 : Taux d’admission 20,38%</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p><strong>Fin de suspens pour les candidats au Baccalauréat, session de juillet 2022. Sur un total de 161.636 candidats, on note 32.941 admis, soit un taux de réussite de 20,38% contre 39,23% en 2021. Ce jeudi à 16h, comme indiqué la veille le ministère de l’éducation nationale a proclamé les résultats officiels.</strong></p>
+										<content:encoded><![CDATA[<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><strong>Fin de suspens pour les candidats au Baccalauréat, session de juillet 2022. Sur un total de 161.636 candidats, on note 32.941 admis, soit un taux de réussite de 20,38% contre 39,23% en 2021. Ce jeudi à 16h, comme indiqué la veille le ministère de l’éducation nationale a proclamé les résultats officiels.</strong></p>
 
 
 
@@ -56,15 +60,21 @@
 
 
 
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-2 wp-block-column"></div>
+<div class="wp-container-2 wp-block-columns">
+<div class="wp-container-1 wp-block-column">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+</div>
 </div>
 
 
 
 <div id="cusdis_thread" data-host="https://cusdis.com/" data-app-id="5402e0b1-1bc5-4fe5-aa6d-faab82559b41" data-page-id="Baccalauréat 2022 : Taux d’admission 20,38%" data-page-url="{{ PAGE_URL }}" data-page-title="Baccalauréat 2022 : Taux d’admission 20,38%"></div>
 <script defer="" src="https://cusdis.com/js/widget/lang/fr.js"></script>
-<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script><p>The post <a href="./../../../education/baccalaureat-2022-un-taux-dadmission-de-2038/index.html">Baccalauréat 2022 : Taux d’admission 20,38%</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
+<script async="" defer="" src="https://cusdis.com/js/cusdis.es.js"></script>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/><p>The post <a href="./../../../education/baccalaureat-2022-un-taux-dadmission-de-2038/index.html">Baccalauréat 2022 : Taux d’admission 20,38%</a> first appeared on <a href="./../../../index.html">Mali Live</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>./../../../education/baccalaureat-2022-un-taux-dadmission-de-2038/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
